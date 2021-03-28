@@ -12,7 +12,7 @@ group: contact
 <div class="col-md-4">
 
   <h4>Edgar Gonzalez-Kozlova</h4>
-  Postdoc  <br>
+  Postdoctoral Fellow  <br>
   Department of Genetics and Genomic Sciences  <br>
   Icahn School of Medicine  <br>
   Mount Sinai <br>
