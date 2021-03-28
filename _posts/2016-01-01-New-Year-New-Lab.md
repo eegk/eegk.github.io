@@ -1,9 +1,7 @@
 ---
-title: New Year, New Lab!
-author: Eli Zunder
+title: News, woohoo!
+author: Edgar
 layout: post
 group: news
 ---
- <img src="/static/img/news/MR5_2220_empty.jpg" alt="MR5 2220 empty" class="img-responsive">
-
-Future home of the Zunder lab!  Watch this space. . .
+ <img src="/static/img/news/working.hard.png" alt="working hard" class="img-responsive">
