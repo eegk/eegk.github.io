@@ -1,7 +1,7 @@
 # eegk.github.io
 ====================
 
-This website was built using the Fraser Lab [website](zunderlab.github.io) as a template.  James Fraser's website is open-source and available on [Github](https://github.com/zunderlab/zunderlab.github.io)
+This website was built using the Fraser Lab [website](zunderlab.github.io) as a template.  Eli Zunder's website is open-source and available on [Github](https://github.com/zunderlab/zunderlab.github.io)
 
 
 Technologies this website uses:  
