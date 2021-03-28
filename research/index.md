@@ -1,50 +1,21 @@
 ---
-title: Research in the Zunder Lab
+title: Research in the Lab
 layout: default
 group: research
 ---
 
-## Research in the Zunder lab is focused on discovering the mechanisms that control stem cell fate.
+## Research in the Gonzalez-Kozlova lab is focused on the integration of computer science and biology. Here, we repurpose and apply algorithms to complex biological data to answer critical questions in the area of immunology associated to chronical and infectious diseases.
 
-
-### Our research takes advantage of the close parallels between *in vitro* stem cell differentiation and *in vivo* development. Our *in vitro* experiments can provide insight into stem cell behavior during normal development and disease, and our *in vivo* experiments can provide insight into the derivation of clinically relevant cell types for regenerative therapy.
-
+### Our research in collaboration with Dr. Dogra, uses cutting edge technology to purify exosomes and minimal sample RNA recovery to characterize the RNA profiles from liquid biopsy samples. We QC and process the sequencing data to characterize expression profiles from either known or unknown regions in the genome to identify signatures associated to different types of cancer (Primarily Prostate Cancer). We use diverse type of assays to tackle hypothesis such as RNAseq, scRNAseq, mass spectrometry.
 
 <br><br>
-<img class="img-responsive center-block" src="/static/img/research/In Vivo In Vitro Parallels.png" alt="In Vivo/In Vitro Parallels">
-
+<img class="img-responsive center-block" src="/static/img/research/Exosomes_analysis.png" alt="Exosome Transcriptomics">
 
 <br><br>
 
-### The central aim of our research is to discover the molecular mechanisms that control stem cell behavior. Specifically, we are working to identify factors that control the progression and branch points of stem cell differentiation.
-
-
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/Progression and Branch Points.png" alt="Progression and Branch Points">
-
+### Our research in collaboration with Dr. Gnjatic focuses in understanding the intricated mechanisms behind immune response in cancer clinical trials and infectious diseases such as covid-19. We analyse diverse types of assays including RNAseq, Single cell - RNAseq, Methylation, Proteomics (Olink, Somalogics), Serology and Seromics.
 
 <br><br>
-
-### In order to study the complex mixtures of rapidly changing cell types that occur during *in vitro* and *in vivo* differentiation, we use single-cell analysis methods such as mass cytometry, which provides a detailed molecular picture of each cell with a throughput of one million cells per hour.
-
+<img class="img-responsive center-block" src="/static/img/research/Bioinformatic_analysis.png" alt="Bioinformatics pipeline">
 
 <br><br>
-<img class="img-responsive center-block" src="/static/img/research/CyTOF Overview Diagram.png" alt="CyTOF Overview">
-
-
-<br><br>
-
-### Each single-cell measurement represents a molecular "snapshot" in time. We seek to connect these "snapshots" together in order to recreate the molecular history of cellular differentiation. To accomplish this, we are building experimental and computational tools that track cell populations as they change over time. We have found force-directed graph layout algorithms to be useful for this purpose, and are working to incorporate additional factors such as timepoint and cell lineage into our analysis.
-
-
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/Layout.gif" alt="Force-directed Layout">
-
-
-<br><br>
-
-### Using these experimental and computational tools, our goal is to define the fundamental principles of stem cell differentiation, and apply this knowledge to the development of regenerative transplantation therapies.
-
-
-<br><br>
-<img class="img-responsive center-block" src="/static/img/research/Regenerative Medicine Overview.png" alt="Regenerative Medicine Overview">
