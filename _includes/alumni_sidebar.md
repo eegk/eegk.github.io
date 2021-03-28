@@ -1,5 +1,5 @@
 
-## Zunder Lab Alumni
+## Gonzalez-Kozlova Lab Alumni
 
 
 {% for alum in site.data.alumni %}
