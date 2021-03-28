@@ -43,5 +43,5 @@ HESS 5th floor <br>
 # Directions to the Lab
 
 <div class="google-maps">
-	<iframe src="https://www.google.com/maps/place/Leon+and+Norma+Hess+Center+for+Science+and+Medicine/@40.7907751,-73.9522042,17.94z/data=!4m12!1m6!3m5!1s0x0:0x2593c320cab0ef41!2sIcahn+School+of+Medicine+at+Mount+Sinai!8m2!3d40.7898178!4d-73.9532394!3m4!1s0x89c2f61d91e4ba81:0x3e224256e121c400!8m2!3d40.7908766!4d-73.9516891" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<iframe src="https://goo.gl/maps/QLLGGrkZPrtTSNVH6" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
