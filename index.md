@@ -1,5 +1,5 @@
 ---
-title: Gonzalez-Kozlova Lab @ UVa
+title: Gonzalez-Kozlova Lab
 layout: home
 group: home
 ---
