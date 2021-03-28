@@ -17,7 +17,7 @@ group: contact
   Icahn School of Medicine  <br>
   Mount Sinai <br>
   <br>
-  email: edgar.gonzalez-kozlova (#!) mssm.edu <br>
+  email: edgar.gonzalez-kozlova (at) mssm.edu <br>
   tel: +1 (917) 402-0926 
 
 </div>
