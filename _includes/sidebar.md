@@ -3,11 +3,11 @@ title: Contact
 ---
 
 
-### Contact the Zunder Lab
+### Contact the Lab
 
-Eli Zunder, Ph.D.
-Assistant Professor
-Department of Biomedical Engineering
-University of Virginia
+Edgar Gonzalez-Kozlova, Ph.D.
+Postdoctoral Fellow
+Department of Genetics and Genomic Sciences
+Icahn School of Medicine at Mount Sinai
 
-email: eli.zunder (#!) virginia.edu
+email: edgar.gonzalez-kozlova at mssm.edu
