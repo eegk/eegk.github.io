@@ -10,9 +10,9 @@
 #  link: "/publications"
 #  group: publications
 
-- name: members
-  link: "/members"
-  group: members
+#- name: members
+#  link: "/members"
+#  group: members
 
 #- name: news
 #  link: "/news"
