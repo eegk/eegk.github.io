@@ -1,5 +1,5 @@
 ---
-title: Gonzalez-Kozlova Lab
+title: Gonzalez-Kozlova
 layout: home
 group: home
 ---
