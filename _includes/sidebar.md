@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-### Contact the Lab
+### Contact
 
 Edgar Gonzalez-Kozlova, Ph.D.
 Assistant Professor
