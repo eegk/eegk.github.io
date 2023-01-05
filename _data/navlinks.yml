@@ -6,9 +6,9 @@
   link: "/research"
   group: research
 
-#- name: publications
-#  link: "/publications"
-#  group: publications
+- name: publications
+  link: "/publications"
+  group: publications
 
 #- name: members
 #  link: "/members"
