@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-# Welcome to my Website!
+## Applied Computational Biology and Biostatistics
 
 I'm an Assistant Professor part of the [Oncological Sciences Department](https://icahn.mssm.edu/about/departments/oncological-sciences) in the [Icahn School of Medicine](https://icahn.mssm.edu/).
 
