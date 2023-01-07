@@ -1,5 +1,5 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
-- citation: 'Chen TY\*, **Gonzalez-Kozlova E\***, Soleymani T, La Salvia S, Kyprianou N, Sahoo S, Tewari AK, Cordon-Cardo C, Stolovitzky G, **Dogra N**. Extracellular vesicles carry distinct proteo-transcriptomic signatures that are different from their cancer cell of origin. **iScience** 2022. \*contributed equally'
+- citation: 'Chen TY\*, **Gonzalez-Kozlova E\***, Soleymani T, La Salvia S, Kyprianou N, Sahoo S, Tewari AK, Cordon-Cardo C, Stolovitzky G, **Dogra N**. Extracellular vesicles carry distinct proteo-transcriptomic signatures that are different from their cancer cell of origin. **iScience** 2022. \*contributed equally.'
   date: 202201
   image: '/static/img/pub/proteo_transcriptome_evs2022.jpg'
   pmid: 35663013
@@ -9,7 +9,7 @@
     - name: "Dogra Lab"
       url: 'https://labs.icahn.mssm.edu/dogralab/'
 
-- citation: '**Gonzalez-Kozlova E**. Molecular Profiling of Liquid Biopsies for Precision Oncology. **Adv Exp Med Biol 2022**'
+- citation: '**Gonzalez-Kozlova E**. Molecular Profiling of Liquid Biopsies for Precision Oncology. **Adv Exp Med Biol 2022**.'
   date: 202201
   image: '/static/img/pub/cmp_met_2022.png'
   pmid: 35230692
@@ -18,7 +18,7 @@
     - name: "Computational Methods for Precision Oncology"
       url: 'https://link.springer.com/chapter/10.1007/978-3-030-91836-1_13'
 
-- citation: 'Aranda CJ\*, **Gonzalez‐Kozlova E\***, Saunders SP, …, Guttman‐Yassky E, Curotto de Lafaille MA. IgG memory B cells expressing IL4R and FCER2 are associated with atopic diseases. **Allergy 2022**.  \*contributed equally'
+- citation: 'Aranda CJ\*, **Gonzalez‐Kozlova E\***, Saunders SP, …, Guttman‐Yassky E, Curotto de Lafaille MA. IgG memory B cells expressing IL4R and FCER2 are associated with atopic diseases. **Allergy 2022**.  \*contributed equally.'
   date: 202201
   image: '/static/img/pub/allergy.jpg'
   pmid: 36445014
@@ -36,7 +36,7 @@
     - name: "Nat Med 2022"
       url: 'https://www.nature.com/articles/s41591-022-02107-4'
 
-- citation: 'Carbonell G\*, Del Valle MD\*, **Gonzalez-Kozlova E\***, ..., Gnjatic S, Taouli B. Quantitative chest computed tomography combined with plasma cytokines predict outcomes in COVID-19 patients. **Heliyon 2022**. \*contributed equally'
+- citation: 'Carbonell G\*, Del Valle MD\*, **Gonzalez-Kozlova E\***, ..., Gnjatic S, Taouli B. Quantitative chest computed tomography combined with plasma cytokines predict outcomes in COVID-19 patients. **Heliyon 2022**. \*contributed equally.'
   date: 202201
   image: '/static/img/pub/heliyon2022_covid19.jpg'
   pmid: 35958514
@@ -46,7 +46,7 @@
     - name: "Heliyon 2022"
       url: 'https://doi.org/10.1016/j.heliyon.2022.e10166'
       
-- citation: 'Butler-Laporte G\*, **Gonzalez-Kozlova E\***, Su CY, Zhou S, ..., Gnjatic S, Richards JB. The dynamic changes and sex differences of 147 immune-related proteins during acute COVID-19 in 580 individuals. **Clin Proteomics 2022.** \*contributed equally'
+- citation: 'Butler-Laporte G\*, **Gonzalez-Kozlova E\***, Su CY, Zhou S, ..., Gnjatic S, Richards JB. The dynamic changes and sex differences of 147 immune-related proteins during acute COVID-19 in 580 individuals. **Clin Proteomics 2022.** \*contributed equally.'
   date: 202201
   image: '/static/img/pub/sex_covid19_2022.jpg'
   pmid: 36171541
@@ -85,7 +85,7 @@
     - name: "Gut 2021"
       url: 'https://doi.org/10.1136/gutjnl-2021-325036'
       
-- citation: 'Geanon D, Lee B, **Gonzalez-Kozlova E**, ..., Gnjatic S, Merad M, Rahman AH. A streamlined whole blood CyTOF workflow defines a circulating immune cell signature of COVID-19. **Cytometry A**. 2021'
+- citation: 'Geanon D, Lee B, **Gonzalez-Kozlova E**, ..., Gnjatic S, Merad M, Rahman AH. A streamlined whole blood CyTOF workflow defines a circulating immune cell signature of COVID-19. **Cytometry A**. 2021.'
   date: 202101
   image: '/static/img/pub/cytof_covid19.jpg'
   pmid: 33496367
@@ -95,7 +95,7 @@
     - name: "Cytometry A 2021"
       url: 'https://doi.org/10.1002/cyto.a.24317'
       
-#- citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015. \*contributed equally'
+#- citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015. \*contributed equally.'
 #  date: 201506
 #  image: '/static/img/pub/levine_cell_2015.jpg'
 #  pmid: 26095251
