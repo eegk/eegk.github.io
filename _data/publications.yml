@@ -36,7 +36,7 @@
     - name: "Nat Med 2022"
       url: 'https://www.nature.com/articles/s41591-022-02107-4'
 
-- citation: 'Carbonell G\*, Del Valle MD\*, **Gonzalez-Kozlova E\***, ..., Gnjatic S, Taouli B. Quantitative chest computed tomography combined with plasma cytokines predict outcomes in COVID-19 patients. **Heliyon 2022**.'
+- citation: 'Carbonell G\*, Del Valle MD\*, **Gonzalez-Kozlova E\***, ..., Gnjatic S, Taouli B. Quantitative chest computed tomography combined with plasma cytokines predict outcomes in COVID-19 patients. **Heliyon 2022**. \*contributed equally'
   date: 202201
   image: '/static/img/pub/heliyon2022_covid19.jpg'
   pmid: 35958514
@@ -46,7 +46,7 @@
     - name: "Heliyon 2022"
       url: 'https://doi.org/10.1016/j.heliyon.2022.e10166'
       
-- citation: 'Butler-Laporte G\*, **Gonzalez-Kozlova E\***, Su CY, Zhou S, ..., Gnjatic S, Richards JB. The dynamic changes and sex differences of 147 immune-related proteins during acute COVID-19 in 580 individuals. **Clin Proteomics 2022.**'
+- citation: 'Butler-Laporte G\*, **Gonzalez-Kozlova E\***, Su CY, Zhou S, ..., Gnjatic S, Richards JB. The dynamic changes and sex differences of 147 immune-related proteins during acute COVID-19 in 580 individuals. **Clin Proteomics 2022.** \*contributed equally'
   date: 202201
   image: '/static/img/pub/sex_covid19_2022.jpg'
   pmid: 36171541
