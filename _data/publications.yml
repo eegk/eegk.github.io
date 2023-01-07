@@ -18,7 +18,7 @@
     - name: "Computational Methods for Precision Oncology"
       url: 'https://link.springer.com/chapter/10.1007/978-3-030-91836-1_13'
 
-- citation: 'Aranda CJ#, **Gonzalez‐Kozlova E**#, Saunders SP, …, Guttman‐Yassky E, Curotto de Lafaille MA. IgG memory B cells expressing IL4R and FCER2 are associated with atopic diseases. **Allergy 2022**.  \*contributed equally'
+- citation: 'Aranda CJ\*, **Gonzalez‐Kozlova E\***, Saunders SP, …, Guttman‐Yassky E, Curotto de Lafaille MA. IgG memory B cells expressing IL4R and FCER2 are associated with atopic diseases. **Allergy 2022**.  \*contributed equally'
   date: 202201
   image: '/static/img/pub/allergy.jpg'
   pmid: 36445014
@@ -36,7 +36,7 @@
     - name: "Nat Med 2022"
       url: 'https://www.nature.com/articles/s41591-022-02107-4'
 
-- citation: '**Heliyon 2022**.'
+- citation: 'Carbonell G\*, Del Valle MD\*, **Gonzalez-Kozlova E\***, ..., Gnjatic S, Taouli B. Quantitative chest computed tomography combined with plasma cytokines predict outcomes in COVID-19 patients. **Heliyon 2022**.'
   date: 202201
   image: '/static/img/pub/heliyon2022_covid19.jpg'
   pmid: 35958514
