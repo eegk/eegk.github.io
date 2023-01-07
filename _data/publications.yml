@@ -73,7 +73,17 @@
   pdf: '/static/pdf/exo_review2021.pdf'
   links:
     - name: "Int J Mol Sci 2021"
-      url: 'https://doi.org/10.1186/s12014-022-09371-z'
+      url: 'https://doi.org/10.3390/ijms221810131'
+      
+- citation: 'von Felden J, Garcia-Lezana T, Dogra N, **Gonzalez-Kozlova E**, ..., Stolovitzky G, Losic B, Villanueva A. Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer. **Gut.** 2021.'
+  date: 202101
+  image: '/static/img/pub/2021.smRCs.liver.cancer.jpg'
+  pmid: 34321221
+  pmcid: PMC8795201
+  pdf: '/static/pdf/2021.smRCs.liver.cancer.pdf'
+  links:
+    - name: "Gut 2021"
+      url: 'https://doi.org/10.1136/gutjnl-2021-325036'
       
 #- citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015. \*contributed equally'
 #  date: 201506
