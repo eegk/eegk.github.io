@@ -56,20 +56,16 @@
     - name: "Clin Proteomics 2022"
       url: 'https://doi.org/10.1186/s12014-022-09371-z'
       
-#- citation: 'Spitzer MH\*, Gherardini PF\*, Fragiadakis GK, Bhattacharya N, Yuan RT, Hotson AN, Finck R, Carmi Y, **Zunder ER**, Fantl WJ, Bendall SC, Engleman EG, Nolan GP. A dynamic immune system reference map: system-wide organization with functional correlates. *Science*. 2015. \*contributed equally'
-#  date: 201507
-#  image: '/static/img/pub/spitzer_science_2015.jpg'
-#  pmid: 26160952
-#  pdf: '/static/pdf/Spitzer 2015 Science.pdf'
-#  cytobank_report: http://www.cytobank.org/nolanlab/reports/Spitzer2015.html
-#  links:
-#    - name: "Engleman Lab"
-#      url: 'https://med.stanford.edu/profiles/edgar-engleman'
-#    - name: "Nolan Lab"
-#      url: 'http://web.stanford.edu/group/nolan/'
-#    - name: "Sciencescape: Mass Cytometry: A First Time Glimpse at the Dynamic Immune System"
-#      url: 'http://blog.sciencescape.org/2015/07/16/mass-cytometry-a-first-time-glimpse-at-the-dynamic-immune-system/'
 
+- citation: 'Medina-Santos R, Fernandes Costa TG, Silva de Assis TC, Kalapothakis Y, de Almeida Lima S, do Carmo AO, **Gonzalez-Kozlova E**, Kalapothakis E, Chávez-Olórtegui C, Guerra-Duarte C. Analysis of NGS data from Peruvian Loxosceles laeta spider venom gland reveals toxin diversity. **Comp Biochem Physiol Part D Genomics Proteomics 2022**.'
+  date: 202201
+  image: '/static/img/pub/spiders_2022.jpg'
+  pmid: 35932519
+  links:
+    - name: "Comp Biochem Physiol Part D Genomics Proteomics 2022"
+      url: 'https://doi.org/10.1016/j.cbd.2022.101017'
+      
+      
 #- citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015. \*contributed equally'
 #  date: 201506
 #  image: '/static/img/pub/levine_cell_2015.jpg'
