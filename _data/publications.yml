@@ -1,5 +1,5 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
-- citation: 'Chen TY\*, **Gonzalez-Kozlova E\***, Soleymani T, La Salvia S, Kyprianou N, Sahoo S, Tewari AK, Cordon-Cardo C, Stolovitzky G, **Dogra N**. Extracellular vesicles carry distinct proteo-transcriptomic signatures that are different from their cancer cell of origin. **iScience**. 2022. \*contributed equally'
+- citation: 'Chen TY\*, **Gonzalez-Kozlova E\***, Soleymani T, La Salvia S, Kyprianou N, Sahoo S, Tewari AK, Cordon-Cardo C, Stolovitzky G, **Dogra N**. Extracellular vesicles carry distinct proteo-transcriptomic signatures that are different from their cancer cell of origin. **iScience** 2022. \*contributed equally'
   date: 202201
   image: '/static/img/pub/proteo_transcriptome_evs2022.jpg'
   pmid: 35663013
@@ -9,7 +9,7 @@
     - name: "Dogra Lab"
       url: 'https://labs.icahn.mssm.edu/dogralab/'
 
-- citation: '**Gonzalez-Kozlova E**. Molecular Profiling of Liquid Biopsies for Precision Oncology. **Adv Exp Med Biol 2022**. \*contributed equally'
+- citation: '**Gonzalez-Kozlova E**. Molecular Profiling of Liquid Biopsies for Precision Oncology. **Adv Exp Med Biol 2022**'
   date: 202201
   image: '/static/img/pub/cmp_met_2022.png'
   pmid: 35230692
@@ -26,7 +26,26 @@
   links:
     - name: "Allergy 2022"
       url: 'https://onlinelibrary.wiley.com/doi/10.1111/all.15601'
+      
+- citation: 'Thompson RC, Simons NW, Wilkins L, ..., **Edgar Gonzalez-Kozlova**, Boyman O, Kim-Schulze S, Sebra R, Merad M, Gnjatic S, Schadt EE, Charney AW & Beckmann ND. Molecular states during acute COVID-19 reveal distinct etiologies of long-term sequelae. **Nat Med 2022**.'
+  date: 202201
+  image: '/static/img/pub/sequela_covid_22.jpg'
+  pmid: 36482101
+  pdf: '/static/pdf/sequela_covid_22.pdf'
+  links:
+    - name: "Nat Med 2022"
+      url: 'https://www.nature.com/articles/s41591-022-02107-4'
 
+- citation: '**Heliyon 2022**.'
+  date: 202201
+  image: '/static/img/pub/heliyon2022_covid19.jpg'
+  pmid: 35958514
+  pmcid: PMC9356575
+  pdf: '/static/pdf/heliyon2022_covid19.pdf'
+  links:
+    - name: "Heliyon 2022"
+      url: 'https://doi.org/10.1016/j.heliyon.2022.e10166'
+      
 #- citation: 'Spitzer MH\*, Gherardini PF\*, Fragiadakis GK, Bhattacharya N, Yuan RT, Hotson AN, Finck R, Carmi Y, **Zunder ER**, Fantl WJ, Bendall SC, Engleman EG, Nolan GP. A dynamic immune system reference map: system-wide organization with functional correlates. *Science*. 2015. \*contributed equally'
 #  date: 201507
 #  image: '/static/img/pub/spitzer_science_2015.jpg'
