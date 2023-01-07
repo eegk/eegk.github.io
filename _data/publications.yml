@@ -85,6 +85,16 @@
     - name: "Gut 2021"
       url: 'https://doi.org/10.1136/gutjnl-2021-325036'
       
+- citation: 'Geanon D, Lee B, **Gonzalez-Kozlova E**, ..., Gnjatic S, Merad M, Rahman AH. A streamlined whole blood CyTOF workflow defines a circulating immune cell signature of COVID-19. **Cytometry A**. 2021'
+  date: 202101
+  image: '/static/img/pub/cytof_covid19.jpg'
+  pmid: 33496367
+  pmcid: PMC8013522
+  pdf: '/static/pdf/cytof_covid19.pdf'
+  links:
+    - name: "Cytometry A 2021"
+      url: 'https://doi.org/10.1002/hep.31659'
+      
 #- citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015. \*contributed equally'
 #  date: 201506
 #  image: '/static/img/pub/levine_cell_2015.jpg'
