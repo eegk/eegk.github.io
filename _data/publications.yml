@@ -55,16 +55,25 @@
   links:
     - name: "Clin Proteomics 2022"
       url: 'https://doi.org/10.1186/s12014-022-09371-z'
-      
 
 - citation: 'Medina-Santos R, Fernandes Costa TG, Silva de Assis TC, Kalapothakis Y, de Almeida Lima S, do Carmo AO, **Gonzalez-Kozlova E**, Kalapothakis E, Chávez-Olórtegui C, Guerra-Duarte C. Analysis of NGS data from Peruvian Loxosceles laeta spider venom gland reveals toxin diversity. **Comp Biochem Physiol Part D Genomics Proteomics 2022**.'
   date: 202201
   image: '/static/img/pub/spiders_2022.jpg'
   pmid: 35932519
+  pdf: 'https://doi.org/10.1016/j.cbd.2022.101017'
   links:
     - name: "Comp Biochem Physiol Part D Genomics Proteomics 2022"
       url: 'https://doi.org/10.1016/j.cbd.2022.101017'
-      
+
+- citation: 'Gaglani S, **Gonzalez-Kozlova E**, Lundon DJ, Tewari AK, Dogra N, Kyprianou N. Exosomes as A Next-Generation Diagnostic and Therapeutic Tool in Prostate Cancer. **Int J Mol Sci.** 2021.'
+  date: 202101
+  image: '/static/img/pub/exo_review2021.jpg'
+  pmid: 34576294
+  pmcid: PMC8465219
+  pdf: '/static/pdf/exo_review2021.pdf'
+  links:
+    - name: "Int J Mol Sci 2021"
+      url: 'https://doi.org/10.1186/s12014-022-09371-z'
       
 #- citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015. \*contributed equally'
 #  date: 201506
