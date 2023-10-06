@@ -1,5 +1,5 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
-- citation: 'Li X.\*, La Salvia S.\*, Liang Y.\*, ...,  **Gonzalez-Kozlova E\***.,  Dubois N, **Dogra N**., Hajjar R., Sahoo S. Extracellular Vesicle–Encapsulated Adeno-Associated Viruses for Therapeutic Gene Delivery to the Heart. **Circulation** 2023. \*contributed equally.'
+- citation: 'Li X.\*, La Salvia S.\*, Liang Y.\*, ...,  **Gonzalez-Kozlova E\**.,  Dubois N, **Dogra N**., Hajjar R., Sahoo S. Extracellular Vesicle–Encapsulated Adeno-Associated Viruses for Therapeutic Gene Delivery to the Heart. **Circulation** 2023. \*contributed equally.'
   date: 202301
   image: '/static/img/pub/circulation_AAV-EV.png'
   pmid: 35663013
