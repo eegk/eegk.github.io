@@ -20,6 +20,16 @@
     - name: "Nat Comm"
       url: 'https://www.nature.com/articles/s41467-023-40966-8'
 
+- citation: 'Pilcher W., Thomas BE., Bhasin SS., Jayasinghe RG., Yao L., **Gonzalez-Kozlova E**., ..., **Gnjatic S**., Ding L., Bhasin M. Cross center single-cell RNA sequencing study of the immune microenvironment in rapid progressing multiple myeloma. **npj genomic medicine** 2023. '
+  date: 202301
+  image: '/static/img/pub/s41525_022_00340_x.png'
+  pmid: 36702834 
+  pmcid: PMC9879959
+  pdf: '/static/pdf/s41525_022_00340_x.pdf'
+  links:
+    - name: "npj genomic medicine"
+      url: 'https://www.nature.com/articles/s41525-022-00340-x'
+
 - citation: 'Su CY., Zhou S., **Gonzalez-Kozlova E**., ..., **Gnjatic S**., Kaufmann D., Merad M. Circulating proteins to predict COVID‐19 severity **Scientific Reports** 2023. \*contributed equally.'
   date: 202301
   image: '/static/img/pub/s41598_023_31850_y.png'
