@@ -1,4 +1,14 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+
+- citation: 'Magen A.\*, ..., **Gonzalez-Kozlova E\**.,  ..., Merad M. Intratumoral dendritic cell–CD4+ T helper cell niches enable CD8+ T cell differentiation following PD-1 blockade in hepatocellular carcinoma. **Nature Medicine** 2023. '
+  date: 202301
+  image: '/static/img/pub/magenetal.png'
+  pmid: 37322116
+  pdf: '/static/pdf/cd4_cxcl13_article.pdf'
+  links:
+    - name: "Nat Med"
+      url: 'https://www.nature.com/articles/s41591-023-02345-0'
+
 - citation: 'Li X.\*, La Salvia S.\*, Liang Y.\*, ...,  **Gonzalez-Kozlova E\**.,  Dubois N, **Dogra N**., Hajjar R., Sahoo S. Extracellular Vesicle–Encapsulated Adeno-Associated Viruses for Therapeutic Gene Delivery to the Heart. **Circulation** 2023. \*contributed equally.'
   date: 202301
   image: '/static/img/pub/circulation_AAV-EV.png'
