@@ -1,6 +1,6 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
-- citation: 'Soleymani T.\*, Chen T.\*, **Gonzalez-Kozlova E\**., Dogra N. The human neurosecretome: extracellular vesicles and particles (EVPs) of the brain for intercellular communication, therapy, and liquid-biopsy applications. **Frontiers in Molecular Biosciences** 2023. \*contributed equally.'
+- citation: 'Soleymani T.\*, Chen T.\*, **Gonzalez-Kozlova E**., Dogra N. The human neurosecretome: extracellular vesicles and particles (EVPs) of the brain for intercellular communication, therapy, and liquid-biopsy applications. **Frontiers in Molecular Biosciences** 2023. \*contributed equally.'
   date: 202301
   image: '/static/img/pub/the.neurosecretome.png'
   pmid: 37322116
@@ -9,7 +9,7 @@
     - name: "Frontiers"
       url: 'https://www.frontiersin.org/articles/10.3389/fmolb.2023.1156821/full'
       
-- citation: 'Magen A.\*, ..., **Gonzalez-Kozlova E\**.,  ..., Merad M. Intratumoral dendritic cell–CD4+ T helper cell niches enable CD8+ T cell differentiation following PD-1 blockade in hepatocellular carcinoma. **Nature Medicine** 2023. '
+- citation: 'Magen A., ..., **Gonzalez-Kozlova E**.,  ..., Merad M. Intratumoral dendritic cell–CD4+ T helper cell niches enable CD8+ T cell differentiation following PD-1 blockade in hepatocellular carcinoma. **Nature Medicine** 2023. '
   date: 202301
   image: '/static/img/pub/magenetal.png'
   pmid: 37322116
@@ -18,7 +18,7 @@
     - name: "Nat Med"
       url: 'https://www.nature.com/articles/s41591-023-02345-0'
 
-- citation: 'Li X.\*, La Salvia S.\*, Liang Y.\*, ...,  **Gonzalez-Kozlova E\**.,  Dubois N, **Dogra N**., Hajjar R., Sahoo S. Extracellular Vesicle–Encapsulated Adeno-Associated Viruses for Therapeutic Gene Delivery to the Heart. **Circulation** 2023. \*contributed equally.'
+- citation: 'Li X.\*, La Salvia S.\*, Liang Y.\*, ...,  **Gonzalez-Kozlova E**.,  Dubois N, **Dogra N**., Hajjar R., Sahoo S. Extracellular Vesicle–Encapsulated Adeno-Associated Viruses for Therapeutic Gene Delivery to the Heart. **Circulation** 2023. \*contributed equally.'
   date: 202301
   image: '/static/img/pub/circulation_AAV-EV.png'
   pmid: 35663013
