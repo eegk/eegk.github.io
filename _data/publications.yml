@@ -1,4 +1,14 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+- citation: 'Li X.\*, La Salvia S.\*, Liang Y.\*, ...,  **Gonzalez-Kozlova E\***.,  Dubois N, **Dogra N**., Hajjar R., Sahoo S. Extracellular Vesicle–Encapsulated Adeno-Associated Viruses for Therapeutic Gene Delivery to the Heart. **Circulation** 2023. \*contributed equally.'
+  date: 202301
+  image: '/static/img/pub/circulation_AAV-EV.png'
+  pmid: 35663013
+  pmcid: PMC9157216
+  pdf: '/static/pdf/li-et-al-2023-extracellular-vesicle-encapsulated-adeno-associated-viruses-for-therapeutic-gene-delivery-to-the-heart.pdf'
+  links:
+    - name: "Circulation"
+      url: 'https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.063759?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org'
+      
 - citation: 'Chen TY\*, **Gonzalez-Kozlova E\***, Soleymani T, La Salvia S, Kyprianou N, Sahoo S, Tewari AK, Cordon-Cardo C, Stolovitzky G, **Dogra N**. Extracellular vesicles carry distinct proteo-transcriptomic signatures that are different from their cancer cell of origin. **iScience** 2022. \*contributed equally.'
   date: 202201
   image: '/static/img/pub/proteo_transcriptome_evs2022.jpg'
