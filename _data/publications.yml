@@ -3,7 +3,8 @@
 - citation: 'Soleymani T.\*, Chen T.\*, **Gonzalez-Kozlova E**., Dogra N. The human neurosecretome: extracellular vesicles and particles (EVPs) of the brain for intercellular communication, therapy, and liquid-biopsy applications. **Frontiers in Molecular Biosciences** 2023. \*contributed equally.'
   date: 202301
   image: '/static/img/pub/the.neurosecretome.png'
-  pmid: 37322116
+  pmid: 37266331
+  pmcid: PMC10229797
   pdf: '/static/pdf/the.neurosecretome.pdf'
   links:
     - name: "Frontiers"
@@ -12,7 +13,8 @@
 - citation: 'Coffey DG., Maura F., **Gonzalez-Kozlova E**., ..., Gnjatic S., Landgren O. Immunophenotypic correlates of sustained MRD negativity in patients with multiple myeloma. **Frontiers in Molecular Biosciences** 2023. \*contributed equally.'
   date: 202301
   image: '/static/img/pub/41467_2023_Article_40966.png'
-  pmid: 37322116
+  pmid: 37660077
+  pmcid: PMC10475030
   pdf: '/static/pdf/41467_2023_Article_40966.pdf'
   links:
     - name: "Nat Comm"
@@ -30,8 +32,7 @@
 - citation: 'Li X.\*, La Salvia S.\*, Liang Y.\*, ...,  **Gonzalez-Kozlova E**.,  Dubois N, **Dogra N**., Hajjar R., Sahoo S. Extracellular Vesicle–Encapsulated Adeno-Associated Viruses for Therapeutic Gene Delivery to the Heart. **Circulation** 2023. \*contributed equally.'
   date: 202301
   image: '/static/img/pub/circulation_AAV-EV.png'
-  pmid: 35663013
-  pmcid: PMC9157216
+  pmid: 37409482
   pdf: '/static/pdf/li-et-al-2023-extracellular-vesicle-encapsulated-adeno-associated-viruses-for-therapeutic-gene-delivery-to-the-heart.pdf'
   links:
     - name: "Circulation"
