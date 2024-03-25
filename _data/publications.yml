@@ -1,5 +1,35 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
+- citation: 'LaMarche NM et al., An IL-4 signalling axis in bone marrow drives pro-tumorigenic myelopoiesis. **Nature.** 2024' 
+  date: 202401
+  image: '/static/img/pub/lamarche.png'
+  pmid: 38057662
+  pmcid: NA
+  pdf: '/static/pdf/s41586-023-06797-9.pdf'
+  links:
+    - name: "Nature"
+      url: 'https://www.nature.com/articles/s41586-023-06797-9'
+      
+- citation: 'Parra ER, Zhang J, Duose DY, **Gonzalez-Kozlova E**, Redman MW, ..., Gnjatic S, Lee JJ, Zhang J, Haymaker C. Multi-omics analysis reveals immune features associated with immunotherapy benefit in squamous cell lung cancer patients from Phase III Lung-MAP S1400I trial. **Clin Cancer Res.** 2024' 
+  date: 202401
+  image: '/static/img/pub/s1400i.png'
+  pmid: 38277235
+  pmcid: NA
+  pdf: '/static/pdf/ccr-23-0251.pdf'
+  links:
+    - name: "CCR"
+      url: 'https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-23-0251/734943/Multi-omics-Analysis-Reveals-Immune-Features'
+
+- citation: 'Galsky MD, Daneshmand S, Izadmehr S, **Gonzalez-Kozlova E**, ..., Gnjatic S, Sfakianos J, Pal SK. Gemcitabine and cisplatin plus nivolumab as organ-sparing treatment for muscle-invasive bladder cancer: a phase 2 trial. **Nat Med.** 2023.'
+  date: 202310
+  image: '/static/img/pub/Galski.study.png'
+  pmid: 37783966
+  pmcid: PMC10667093
+  pdf: '/static/pdf/s41591-023-02568-1.pdf'
+  links:
+    - name: "Nat Med"
+      url: 'https://www.nature.com/articles/s41591-023-02568-1'
+
 - citation: 'Soleymani T.\*, Chen T.\*, **Gonzalez-Kozlova E**., Dogra N. The human neurosecretome: extracellular vesicles and particles (EVPs) of the brain for intercellular communication, therapy, and liquid-biopsy applications. **Frontiers in Molecular Biosciences** 2023. \*contributed equally.'
   date: 202301
   image: '/static/img/pub/the.neurosecretome.png'
