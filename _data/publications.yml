@@ -10,7 +10,7 @@
     - name: "Nature"
       url: 'https://www.nature.com/articles/s41586-023-06797-9'
       
-- citation: 'Parra ER, Zhang J, Duose DY, **Gonzalez-Kozlova E**, Redman MW, ..., Gnjatic S, Lee JJ, Zhang J, Haymaker C. Multi-omics analysis reveals immune features associated with immunotherapy benefit in squamous cell lung cancer patients from Phase III Lung-MAP S1400I trial. **Clin Cancer Res.** 2024' 
+- citation: 'Parra ER\*, Zhang J\*, Duose DY\*, **Gonzalez-Kozlova E\***, Redman MW, ..., Gnjatic S, Lee JJ, Zhang J, Haymaker C. Multi-omics analysis reveals immune features associated with immunotherapy benefit in squamous cell lung cancer patients from Phase III Lung-MAP S1400I trial. **Clin Cancer Res.** 2024' 
   date: 202401
   image: '/static/img/pub/s1400i.png'
   pmid: 38277235
