@@ -183,6 +183,16 @@
   links:
     - name: "Cytometry A 2021"
       url: 'https://doi.org/10.1002/cyto.a.24317'
+
+- citation: 'Bubie A, **Gonzalez-Kozlova E**, ..., Akers N, Villanueva A, Losic B. Tumor fitness, immune exhaustion and clinical outcomes: impact of immune checkpoint inhibitors. **Sci Rep**. 2020.'
+  date: 202001
+  image: '/static/img/pub/bubie.png'
+  pmid: 32193450
+  pmcid: PMC7081289
+  pdf: '/static/pdf/bubie_41598_2020_Article_61992.pdf'
+  links:
+    - name: "Scientific Reports 2021"
+      url: 'doi: 10.1038/s41598-020-61992-2.'
       
 #- citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015. \*contributed equally.'
 #  date: 201506
