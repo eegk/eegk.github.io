@@ -60,7 +60,7 @@
     - name: "npj genomic medicine"
       url: 'https://www.nature.com/articles/s41525-022-00340-x'
 
-- citation: 'Su CY., Zhou S., **Gonzalez-Kozlova E**., ..., Gnjatic S., Kaufmann D., Merad M. Circulating proteins to predict COVID‐19 severity **Scientific Reports** 2023. \*contributed equally.'
+- citation: 'Su CY\*., Zhou S\*., **Gonzalez-Kozlova E\***., ..., Gnjatic S., Kaufmann D., Merad M. Circulating proteins to predict COVID‐19 severity **Scientific Reports** 2023. \*contributed equally.'
   date: 202301
   image: '/static/img/pub/s41598_023_31850_y.png'
   pmid: 37069249
