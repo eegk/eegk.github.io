@@ -214,8 +214,15 @@
     - name: "Scientific Reports 2018"
       url: 'doi: 10.1038/s41598-018-33298-x'
 
-
-
+- citation: '**Gonzalez-Kozlova E**, Viart B, de Avila R, Felicori L, Chavez-Olortegui C. Classification epitopes in groups based on their protein family. **Sci Rep**. 2018.'
+  date: 201801
+  image: '/static/img/pub/bmc_eegk.png'
+  pmid: 26696329
+  pmcid: PMC4686779
+  pdf: '/static/pdf/bmc_1471-2105-16-S19-S7.pdf'
+  links:
+    - name: "BMC Bioinformatics 2015"
+      url: 'doi: 10.1186/1471-2105-16-S19-S7'
       
 #- citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015. \*contributed equally.'
 #  date: 201506
