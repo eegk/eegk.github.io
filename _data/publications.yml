@@ -215,7 +215,7 @@
       url: 'doi: 10.1038/s41598-018-33298-x'
 
 - citation: '**Gonzalez-Kozlova E**, Viart B, de Avila R, Felicori L, Chavez-Olortegui C. Classification epitopes in groups based on their protein family. **BMC Bioinformatics**. 2015.'
-  date: 201801
+  date: 201501
   image: '/static/img/pub/bmc_eegk.png'
   pmid: 26696329
   pmcid: PMC4686779
