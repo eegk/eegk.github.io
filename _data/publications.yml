@@ -40,7 +40,7 @@
     - name: "Frontiers"
       url: 'https://www.frontiersin.org/articles/10.3389/fmolb.2023.1156821/full'
 
-- citation: 'Coffey DG., Maura F., **Gonzalez-Kozlova E**., ..., **Gnjatic S**., Landgren O. Immunophenotypic correlates of sustained MRD negativity in patients with multiple myeloma. **Nature Communications** 2023. \*contributed equally.'
+- citation: 'Coffey DG., Maura F., **Gonzalez-Kozlova E**., ..., Gnjatic S., Landgren O. Immunophenotypic correlates of sustained MRD negativity in patients with multiple myeloma. **Nature Communications** 2023. \*contributed equally.'
   date: 202301
   image: '/static/img/pub/41467_2023_Article_40966.png'
   pmid: 37660077
@@ -50,7 +50,7 @@
     - name: "Nat Comm"
       url: 'https://www.nature.com/articles/s41467-023-40966-8'
 
-- citation: 'Pilcher W., Thomas BE., Bhasin SS., Jayasinghe RG., Yao L., **Gonzalez-Kozlova E**., ..., **Gnjatic S**., Ding L., Bhasin M. Cross center single-cell RNA sequencing study of the immune microenvironment in rapid progressing multiple myeloma. **npj genomic medicine** 2023. '
+- citation: 'Pilcher W., Thomas BE., Bhasin SS., Jayasinghe RG., Yao L., **Gonzalez-Kozlova E**., ..., Gnjatic S., Ding L., Bhasin M. Cross center single-cell RNA sequencing study of the immune microenvironment in rapid progressing multiple myeloma. **npj genomic medicine** 2023. '
   date: 202301
   image: '/static/img/pub/s41525_022_00340_x.png'
   pmid: 36702834 
@@ -60,7 +60,7 @@
     - name: "npj genomic medicine"
       url: 'https://www.nature.com/articles/s41525-022-00340-x'
 
-- citation: 'Su CY., Zhou S., **Gonzalez-Kozlova E**., ..., **Gnjatic S**., Kaufmann D., Merad M. Circulating proteins to predict COVID‐19 severity **Scientific Reports** 2023. \*contributed equally.'
+- citation: 'Su CY., Zhou S., **Gonzalez-Kozlova E**., ..., Gnjatic S., Kaufmann D., Merad M. Circulating proteins to predict COVID‐19 severity **Scientific Reports** 2023. \*contributed equally.'
   date: 202301
   image: '/static/img/pub/s41598_023_31850_y.png'
   pmid: 37069249
@@ -70,7 +70,7 @@
     - name: "Nat Comm"
       url: 'https://www.nature.com/articles/s41467-023-40966-8'
 
-- citation: 'Magen A., ..., **Gonzalez-Kozlova E**., ..., **Gnjatic S**., ..., Merad M. Intratumoral dendritic cell–CD4+ T helper cell niches enable CD8+ T cell differentiation following PD-1 blockade in hepatocellular carcinoma. **Nature Medicine** 2023. '
+- citation: 'Magen A., ..., **Gonzalez-Kozlova E**., ..., Gnjatic S., ..., Merad M. Intratumoral dendritic cell–CD4+ T helper cell niches enable CD8+ T cell differentiation following PD-1 blockade in hepatocellular carcinoma. **Nature Medicine** 2023. '
   date: 202301
   image: '/static/img/pub/magenetal.png'
   pmid: 37322116
@@ -79,7 +79,7 @@
     - name: "Nat Med"
       url: 'https://www.nature.com/articles/s41591-023-02345-0'
 
-- citation: 'Li X.\*, La Salvia S.\*, Liang Y.\*, ..., **Gonzalez-Kozlova E**., Dubois N, **Dogra N**., Hajjar R., Sahoo S. Extracellular Vesicle–Encapsulated Adeno-Associated Viruses for Therapeutic Gene Delivery to the Heart. **Circulation** 2023. \*contributed equally.'
+- citation: 'Li X.\*, La Salvia S.\*, Liang Y.\*, ..., **Gonzalez-Kozlova E**., Dubois N, Dogra N., Hajjar R., Sahoo S. Extracellular Vesicle–Encapsulated Adeno-Associated Viruses for Therapeutic Gene Delivery to the Heart. **Circulation** 2023. \*contributed equally.'
   date: 202301
   image: '/static/img/pub/circulation_AAV-EV.png'
   pmid: 37409482
@@ -88,7 +88,7 @@
     - name: "Circulation"
       url: 'https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.063759?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org'
       
-- citation: 'Chen TY\*, **Gonzalez-Kozlova E\***, Soleymani T, La Salvia S, Kyprianou N, Sahoo S, Tewari AK, Cordon-Cardo C, Stolovitzky G, **Dogra N**. Extracellular vesicles carry distinct proteo-transcriptomic signatures that are different from their cancer cell of origin. **iScience** 2022. \*contributed equally.'
+- citation: 'Chen TY\*, **Gonzalez-Kozlova E\***, Soleymani T, La Salvia S, Kyprianou N, Sahoo S, Tewari AK, Cordon-Cardo C, Stolovitzky G, Dogra N. Extracellular vesicles carry distinct proteo-transcriptomic signatures that are different from their cancer cell of origin. **iScience** 2022. \*contributed equally.'
   date: 202201
   image: '/static/img/pub/proteo_transcriptome_evs2022.jpg'
   pmid: 35663013
