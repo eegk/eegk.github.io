@@ -173,6 +173,16 @@
   links:
     - name: "Gut 2021"
       url: 'https://doi.org/10.1136/gutjnl-2021-325036'
+
+- citation: 'Hernandez-Meza G, von Felden J, **Gonzalez-Kozlova E**, ..., Gnjatic S, Merad M, Rahman AH. DNA Methylation Profiling of Human Hepatocarcinogenesis. **Hepatology**. 2021.'
+  date: 202101
+  image: '/static/img/pub/mesa.hcc.png'
+  pmid: 33237575
+  pmcid: PMC8144238
+  pdf: '/static/pdf/mesa_nihms-1650380.pdf'
+  links:
+    - name: "Hepatology 2021"
+      url: 'doi: 10.1002/hep.31659'
       
 - citation: 'Geanon D, Lee B, **Gonzalez-Kozlova E**, ..., Gnjatic S, Merad M, Rahman AH. A streamlined whole blood CyTOF workflow defines a circulating immune cell signature of COVID-19. **Cytometry A**. 2021.'
   date: 202101
@@ -196,7 +206,7 @@
 
 - citation: '**Gonzalez-Kozlova E**, Cerf L, ... Felicori L, Chávez-Olórtegui C, Machado-de-Ávila RA. Computational B-cell epitope identification and production of neutralizing murine antibodies against Atroxlysin-I. **Sci Rep**. 2018.'
   date: 201801
-  image: '/static/img/pub/bcellcomp.jpeg'
+  image: '/static/img/pub/bcellcomp.png'
   pmid: 30297733
   pmcid: PMC6175905
   pdf: '/static/pdf/eegk_41598_2018_Article_33298.pdf'
