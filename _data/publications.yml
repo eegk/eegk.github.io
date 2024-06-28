@@ -1,6 +1,6 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
-- citation: '**Gonzalez-Kozlova E**, Huang HH, Jegede OA, Tuballes K, Del Valle DM, ..., Kim-Schulze S, Diefenbach CS, Gnjatic S. Tumor-immune signatures of treatment resistance to brentuximab vedotin with ipilimumab and/or nivolumab in Hodgkin lymphoma. ** Cancer Res. Commun.** 2024' 
+- citation: '**Gonzalez-Kozlova E**, Huang HH, Jegede OA, Tuballes K, Del Valle DM, ..., Kim-Schulze S, Diefenbach CS, Gnjatic S. Tumor-immune signatures of treatment resistance to brentuximab vedotin with ipilimumab and/or nivolumab in Hodgkin lymphoma. **Cancer Res. Commun.** 2024' 
   date: 202401
   image: '/static/img/pub/egk_crc-24-0252.png'
   pmid: 38934093
