@@ -1,14 +1,14 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
-- citation: 'LaMarche NM et al., An IL-4 signalling axis in bone marrow drives pro-tumorigenic myelopoiesis. **Nature.** 2024' 
+- citation: '**Gonzalez-Kozlova E**, Huang HH, Jegede OA, Tuballes K, Del Valle DM, ..., Kim-Schulze S, Diefenbach CS, Gnjatic S. Tumor-immune signatures of treatment resistance to brentuximab vedotin with ipilimumab and/or nivolumab in Hodgkin lymphoma. ** Cancer Res. Commun.** 2024' 
   date: 202401
-  image: '/static/img/pub/lamarche.png'
-  pmid: 38057662
+  image: '/static/img/pub/egk_crc-24-0252.png'
+  pmid: 38934093
   pmcid: NA
-  pdf: '/static/pdf/s41586-023-06797-9.pdf'
+  pdf: '/static/pdf/egk_crc-24-0252.pdf'
   links:
-    - name: "Nature"
-      url: 'https://www.nature.com/articles/s41586-023-06797-9'
+    - name: "CRC"
+      url: 'DOI: 10.1158/2767-9764.CRC-24-0252'
       
 - citation: 'Parra ER\*, Zhang J\*, Duose DY\*, **Gonzalez-Kozlova E\***, Redman MW, ..., Gnjatic S, Lee JJ, Zhang J, Haymaker C. Multi-omics analysis reveals immune features associated with immunotherapy benefit in squamous cell lung cancer patients from Phase III Lung-MAP S1400I trial. **Clin Cancer Res.** 2024' 
   date: 202401
@@ -20,6 +20,16 @@
     - name: "CCR"
       url: 'https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-23-0251/734943/Multi-omics-Analysis-Reveals-Immune-Features'
 
+- citation: 'LaMarche NM et al., An IL-4 signalling axis in bone marrow drives pro-tumorigenic myelopoiesis. **Nature.** 2024' 
+  date: 202401
+  image: '/static/img/pub/lamarche.png'
+  pmid: 38057662
+  pmcid: NA
+  pdf: '/static/pdf/s41586-023-06797-9.pdf'
+  links:
+    - name: "Nature"
+      url: 'https://www.nature.com/articles/s41586-023-06797-9'
+      
 - citation: 'Galsky MD, Daneshmand S, Izadmehr S, **Gonzalez-Kozlova E**, ..., Gnjatic S, Sfakianos J, Pal SK. Gemcitabine and cisplatin plus nivolumab as organ-sparing treatment for muscle-invasive bladder cancer: a phase 2 trial. **Nat Med.** 2023.'
   date: 202310
   image: '/static/img/pub/Galski.study.png'
