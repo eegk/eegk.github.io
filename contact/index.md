@@ -13,7 +13,7 @@ group: contact
 
   <h4>Edgar Gonzalez-Kozlova</h4>
   Assistant Professor  <br>
-  Department of Oncological Sciences  <br>
+  Department of Immunology and Immuntherapy  <br>
   Icahn School of Medicine  <br>
   Mount Sinai <br>
   <br>
