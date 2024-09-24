@@ -10,7 +10,7 @@
     - name: "MCR"
       url: 'DOI: 10.1158/1541-7786.MCR-23-1047'
 
-- citation: 'Dogra N\*, Chen TY\*, **Gonzalez-Kozlova E\***, Miceli R, Cordon-Cardo C, Tewari AK, Losic B, Stolovitzky G. Extracellular vesicles carry transcriptional dark matter revealing tissue-specific information. **J Extracell Vesicles.** 2024' \*contributed equally.
+- citation: 'Dogra N\*, Chen TY\*, **Gonzalez-Kozlova E\***, Miceli R, Cordon-Cardo C, Tewari AK, Losic B, Stolovitzky G. Extracellular vesicles carry transcriptional dark matter revealing tissue-specific information. **J Extracell Vesicles.** 2024 \*contributed equally.'
   date: 202401
   image: '/static/img/pub/egk_crc-24-0252.png'
   pmid: 39148266
@@ -30,7 +30,7 @@
     - name: "CRC"
       url: 'DOI: 10.1158/2767-9764.CRC-24-0252'
       
-- citation: 'Parra ER\*, Zhang J\*, Duose DY\*, **Gonzalez-Kozlova E\***, Redman MW, ..., Gnjatic S, Lee JJ, Zhang J, Haymaker C. Multi-omics analysis reveals immune features associated with immunotherapy benefit in squamous cell lung cancer patients from Phase III Lung-MAP S1400I trial. **Clin Cancer Res.** 2024' \*contributed equally.
+- citation: 'Parra ER\*, Zhang J\*, Duose DY\*, **Gonzalez-Kozlova E\***, Redman MW, ..., Gnjatic S, Lee JJ, Zhang J, Haymaker C. Multi-omics analysis reveals immune features associated with immunotherapy benefit in squamous cell lung cancer patients from Phase III Lung-MAP S1400I trial. **Clin Cancer Res.** 2024 \*contributed equally.'
   date: 202401
   image: '/static/img/pub/s1400i.png'
   pmid: 38277235
@@ -80,7 +80,7 @@
     - name: "Nat Comm"
       url: 'https://www.nature.com/articles/s41467-023-40966-8'
 
-- citation: 'Pilcher W., Thomas BE., Bhasin SS., Jayasinghe RG., Yao L., **Gonzalez-Kozlova E**., ..., Gnjatic S., Ding L., Bhasin M. Cross center single-cell RNA sequencing study of the immune microenvironment in rapid progressing multiple myeloma. **npj genomic medicine** 2023. '
+- citation: 'Pilcher W., Thomas BE., Bhasin SS., Jayasinghe RG., Yao L., **Gonzalez-Kozlova E**., ..., Gnjatic S., Ding L., Bhasin M. Cross center single-cell RNA sequencing study of the immune microenvironment in rapid progressing multiple myeloma. **npj genomic medicine** 2023.'
   date: 202301
   image: '/static/img/pub/s41525_022_00340_x.png'
   pmid: 36702834 
