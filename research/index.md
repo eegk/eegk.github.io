@@ -4,13 +4,13 @@ layout: default
 group: research
 ---
 
-## Theme
+## Theme 'Human Health'
 
-### Our research focus in the integration of computer science and biology. Here, we repurpose, apply and develop (when needed) algorithms to complex biological data to answer critical questions in the area of immunology associated to chronical and infectious diseases.
+### My research focus in integrate computer science and biology to answer basic and translational questions raised by me or my collaborators. To address critical questions in human health including chronic and infectious diseases, immunology, aging and neuroscience, we repurpose, apply, and develop algorithms to interrogate complex biological data. 
 
 ## Liquid biopsy
 
-### In collaboration with Dr. Dogra, we use cutting edge technology to purify exosomes and minimal sample RNA recovery to characterize the RNA profiles from liquid biopsy samples. We QC and process the sequencing data to characterize expression profiles from either known or unknown regions in the genome to identify signatures associated to different types of cancer (Primarily Prostate Cancer). We use diverse type of assays to tackle hypothesis such as RNAseq, scRNAseq, mass spectrometry.
+### In collaboration with Dr. Dogra, we use cutting edge technology to purify extracellular vesicles and particles using minimal sample RNA recovery to characterize the total RNA profiles from liquid biopsy samples. We QC and process the sequencing data to characterize expression profiles from either known or unknown regions in the genome to identify signatures associated to different types of human malignancies. We use diverse type of assays to tackle organ specific hypothesis such as RNAseq, scRNAseq, mass spectrometry.
 
 <br><br>
 <img class="img-responsive center-block" src="/static/img/research/Exosomes_analysis.png" alt="Exosome Transcriptomics">
@@ -18,8 +18,8 @@ group: research
 
 ## Cancer Research
 
-### In collaboration with Dr. Gnjatic, we focus in understanding the intricated mechanisms behind immune response in cancer clinical trials and infectious diseases such as covid-19. We analyse diverse types of assays including RNAseq, Single cell - RNAseq, Methylation, Proteomics (Olink, Somalogics), Serology and Seromics.
+### In collaboration with Dr. Gnjatic, we focus in understanding the intricated mechanisms behind immune response in cancer clinical trials and infectious diseases such as covid-19. We dissect diverse types of assays including RNAseq, Single cell - RNAseq, Methylation, Proteomics (Olink, Somalogics), Serology, Seromics, multiplex immuno histochemistry and spatial transcriptomics or proteomics.
 
 <br><br>
-<img class="img-responsive center-block" src="/static/img/research/Bioinformatic_analysis.png" alt="Bioinformatics pipeline">
+<img class="img-responsive center-block" src="/static/img/research/Bioinformatic_analysis.png" alt="Basic Bioinformatics pipeline">
 <br><br>
