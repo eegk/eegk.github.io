@@ -1,6 +1,6 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
-- citation: 'Miceli RT, ..., Gonzalez-Kozlova E, Dogra N. Extracellular vesicles, RNA sequencing, and bioinformatic analyses: Challenges, solutions, and recommendations. **J Extracell Vesicles.** 2024' 
+- citation: 'Miceli RT, ..., **Gonzalez-Kozlova E**, Dogra N. Extracellular vesicles, RNA sequencing, and bioinformatic analyses: Challenges, solutions, and recommendations. **J Extracell Vesicles.** 2024' 
   date: 202412
   image: '/static/img/pub/J of Extracellular Vesicle - 2024 - Miceli - Extracellular vesicles  RNA sequencing  and bioinformatic analyses  Challenges.png'
   pmid: 39461879
