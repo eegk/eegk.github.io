@@ -1,5 +1,15 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
+- citation: 'Shang J, et al., Baseline colitogenicity and acute perturbations of gut microbiota in immunotherapy-related colitis. **J Exp Med.** 2025' 
+  date: 202501
+  image: '/static/img/pub/jem_20232079.png'
+  pmid: 39666007
+  pmcid: PMC11636624
+  pdf: '/static/pdf/jem_20232079.pdf'
+  links:
+    - name: "JEM"
+      url: 'https://rupress.org/jem/article/222/1/e20232079/277155/Baseline-colitogenicity-and-acute-perturbations-of' 
+      
 - citation: 'Miceli RT, ..., **Gonzalez-Kozlova E**, Dogra N. Extracellular vesicles, RNA sequencing, and bioinformatic analyses: Challenges, solutions, and recommendations. **J Extracell Vesicles.** 2024' 
   date: 202412
   image: '/static/img/pub/J of Extracellular Vesicle - 2024 - Miceli - Extracellular vesicles  RNA sequencing  and bioinformatic analyses  Challenges.png'
