@@ -1,5 +1,45 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
+- citation: 'Miceli RT, ..., Gonzalez-Kozlova E, Dogra N. Extracellular vesicles, RNA sequencing, and bioinformatic analyses: Challenges, solutions, and recommendations. **J Extracell Vesicles.** 2024' 
+  date: 202412
+  image: '/static/img/pub/J of Extracellular Vesicle - 2024 - Miceli - Extracellular vesicles  RNA sequencing  and bioinformatic analyses  Challenges.png'
+  pmid: 39461879
+  pmcid: PMC11529678
+  pdf: '/static/pdf/J of Extracellular Vesicle - 2024 - Miceli - Extracellular vesicles  RNA sequencing  and bioinformatic analyses  Challenges.pdf'
+  links:
+    - name: "JEV"
+      url: 'https://isevjournals.onlinelibrary.wiley.com/doi/epdf/10.1002/jev2.70005' 
+
+- citation: 'Bao R, ..., Meerzaman D, Liu S, Van Allen EM, Xing Y. Ten challenges and opportunities in computational immuno-oncology. **J Immunother Cancer.** 2024' 
+  date: 202412
+  image: '/static/img/pub/e009721.full.png'
+  pmid: 39461879
+  pmcid: PMC11529678
+  pdf: '/static/pdf/e009721.full.pdf'
+  links:
+    - name: "JIC"
+      url: 'https://jitc.bmj.com/content/12/10/e009721.long'
+      
+- citation: 'Cappuyns S, ..., Villanueva A, Dekervel J, Llovet JM. Single-cell RNA seq-derived signatures define response patterns to atezolizumab + bevacizumab in advanced hepatocellular carcinoma. **J Hepatol.** 2024' 
+  date: 202412
+  image: '/static/img/pub/1-s2.0-S0168827824027715-main.png'
+  pmid: 39709141
+  pmcid: NA
+  pdf: '/static/pdf/1-s2.0-S0168827824027715-main.pdf'
+  links:
+    - name: "JHEPAT"
+      url: 'https://www.sciencedirect.com/science/article/pii/S0168827824027715?via%3Dihub'
+      
+- citation: 'Monette A, ..., **Gonzalez-Kozlova E**, Tirosh I, Wang X, Gnjatic S. The Society for Immunotherapy of Cancer Perspective on Tissue-Based Technologies for Immuno-Oncology Biomarker Discovery and Application. **Clin Cancer Res.** 2024' 
+  date: 202412
+  image: '/static/img/pub/ccr-24-2469.png'
+  pmid: 39625818
+  pmcid: NA
+  pdf: '/static/pdf/ccr-24-2469.pdf'
+  links:
+    - name: "CCR"
+      url: 'https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-24-2469/750770/The-Society-for-Immunotherapy-of-Cancer'
+      
 - citation: 'Archer M, Begemann D, **Gonzalez-Kozlova E**, Nepali PR, Labanca E, Shepherd P, Dogra N, Navone N, Kyprianou N. Kinesin Facilitates Phenotypic Targeting of Therapeutic Resistance in Advanced Prostate Cancer. **Mol Cancer Res.** 2024' 
   date: 202401
   image: '/static/img/pub/2024.mcr-23-1047.png'
@@ -8,7 +48,7 @@
   pdf: '/static/pdf/2024.mcr-23-1047.pdf'
   links:
     - name: "MCR"
-      url: 'DOI: 10.1158/1541-7786.MCR-23-1047'
+      url: 'https://aacrjournals.org/mcr/article/22/8/730/746666/Kinesin-Facilitates-Phenotypic-Targeting-of'
 
 - citation: 'Dogra N\*, Chen TY\*, **Gonzalez-Kozlova E\***, Miceli R, Cordon-Cardo C, Tewari AK, Losic B, Stolovitzky G. Extracellular vesicles carry transcriptional dark matter revealing tissue-specific information. **J Extracell Vesicles.** 2024 \*contributed equally.'
   date: 202401
@@ -18,7 +58,7 @@
   pdf: '/static/pdf/2024.JEV2-13-e12481.pdf'
   links:
     - name: "JEV"
-      url: 'DOI: 10.1002/jev2.12481.'
+      url: 'https://isevjournals.onlinelibrary.wiley.com/doi/10.1002/jev2.12481'
       
 - citation: '**Gonzalez-Kozlova E**, Huang HH, Jegede OA, Tuballes K, Del Valle DM, ..., Kim-Schulze S, Diefenbach CS, Gnjatic S. Tumor-immune signatures of treatment resistance to brentuximab vedotin with ipilimumab and/or nivolumab in Hodgkin lymphoma. **Cancer Res. Commun.** 2024'  
   date: 202401
@@ -28,7 +68,7 @@
   pdf: '/static/pdf/egk_crc-24-0252.pdf'
   links:
     - name: "CRC"
-      url: 'DOI: 10.1158/2767-9764.CRC-24-0252'
+      url: 'https://aacrjournals.org/cancerrescommun/article/4/7/1726/746418/Tumor-Immune-Signatures-of-Treatment-Resistance-to'
       
 - citation: 'Parra ER\*, Zhang J\*, Duose DY\*, **Gonzalez-Kozlova E\***, Redman MW, ..., Gnjatic S, Lee JJ, Zhang J, Haymaker C. Multi-omics analysis reveals immune features associated with immunotherapy benefit in squamous cell lung cancer patients from Phase III Lung-MAP S1400I trial. **Clin Cancer Res.** 2024 \*contributed equally.'
   date: 202401
