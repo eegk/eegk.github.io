@@ -11,9 +11,9 @@
 
 - citation: 'Monette A, et al., The Society for Immunotherapy of Cancer Perspective on Tissue-Based Technologies for Immuno-Oncology Biomarker Discovery and Application. **Clin Cancer Res.** 2025' 
   date: 202501
-  image: '/static/img/pub/TMB.png'
+  image: '/static/img/pub/ccr-24-2469.png'
   pmid: 39625818
-  pdf: '/static/pdf/TMB.pdf'
+  pdf: '/static/pdf/ccr-24-2469.pdf'
   links:
     - name: "CCR"
       url: 'https://aacrjournals.org/clincancerres/article-abstract/31/3/439/751213/The-Society-for-Immunotherapy-of-Cancer?redirectedFrom=fulltext' 
