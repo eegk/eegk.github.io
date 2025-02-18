@@ -57,7 +57,17 @@
   links:
     - name: "JHEPAT"
       url: 'https://www.sciencedirect.com/science/article/pii/S0168827824027715?via%3Dihub'
-      
+
+- citation: 'Espada CE, et al., ISG15/USP18/STAT2 is a molecular hub regulating IFN I-mediated control of Dengue and Zika virus replication. **Front Immunol.** 2024' 
+  date: 202412
+  image: '/static/img/pub/fimmu-15-1331731.png'
+  pmid: 38384473
+  pmcid: PMC10879325
+  pdf: '/static/pdf/fimmu-15-1331731.pdf'
+  links:
+    - name: "CCR"
+      url: 'https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-24-2469/750770/The-Society-for-Immunotherapy-of-Cancer'
+
 - citation: 'Monette A, ..., **Gonzalez-Kozlova E**, Tirosh I, Wang X, Gnjatic S. The Society for Immunotherapy of Cancer Perspective on Tissue-Based Technologies for Immuno-Oncology Biomarker Discovery and Application. **Clin Cancer Res.** 2024' 
   date: 202412
   image: '/static/img/pub/ccr-24-2469.png'
