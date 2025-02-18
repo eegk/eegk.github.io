@@ -1,6 +1,6 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
-- citation: 'Jayaraman P, et al., Peripheral Transcriptomics in Acute and Long-Term Kidney Dysfunction in SARS-CoV2 Infection. **Kidney360** 2025' 
+- citation: 'Jayaraman P, et al., Peripheral Transcriptomics in Acute and Long-Term Kidney Dysfunction in SARS-CoV2 Infection. **Kidney360.** 2025' 
   date: 202501
   image: '/static/img/pub/kidkey360.png'
   pmid: 39899385
@@ -9,7 +9,7 @@
     - name: "Kidney360"
       url: 'https://journals.lww.com/kidney360/abstract/9900/peripheral_transcriptomics_in_acute_and_long_term.584.aspx' 
 
-- citation: 'Monette A, et al., The Society for Immunotherapy of Cancer Perspective on Tissue-Based Technologies for Immuno-Oncology Biomarker Discovery and Application. **Clin Cancer Res** 2025' 
+- citation: 'Monette A, et al., The Society for Immunotherapy of Cancer Perspective on Tissue-Based Technologies for Immuno-Oncology Biomarker Discovery and Application. **Clin Cancer Res.** 2025' 
   date: 202501
   image: '/static/img/pub/TMB.png'
   pmid: 39625818
