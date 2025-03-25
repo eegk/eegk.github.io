@@ -1,7 +1,5 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
-  2025 Feb 25;13(2):e010541. doi: 10.1136/jitc-2024-010541. 
-
 - citation: 'Roudko V, Del Valle DM, ...,  Gnjatic S. Immunological biomarkers of response and resistance to treatment with cabozantinib and nivolumab in recurrent endometrial cancer.  **J Immunother Cancer.** 2025'
   date: 202501
   image: '/static/img/pub/e010541.full.png'
