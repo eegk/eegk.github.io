@@ -1,5 +1,14 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
+- citation: 'Wen PY, et al., A multi-institutional phase 1 clinical trial exploring upfront multimodal standard of care and combined immunotherapies for newly diagnosed glioblastoma.  **Neuro Oncol.** 2025'
+  date: 202501
+  image: '/static/img/pub/noaf079.png'
+  pmid: 40120123
+  pdf: '/static/pdf/noaf079.pdf'
+  links:
+    - name: "Neuro Oncol"
+      url: 'https://academic.oup.com/neuro-oncology/advance-article/doi/10.1093/neuonc/noaf079/8090476?login=true'
+
 - citation: 'Jayaraman P, et al., Peripheral Transcriptomics in Acute and Long-Term Kidney Dysfunction in SARS-CoV2 Infection. **Kidney360.** 2025' 
   date: 202501
   image: '/static/img/pub/kidney360.png'
