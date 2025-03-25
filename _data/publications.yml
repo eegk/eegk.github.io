@@ -1,5 +1,17 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
+  2025 Feb 25;13(2):e010541. doi: 10.1136/jitc-2024-010541. 
+
+- citation: 'Roudko V, Del Valle DM, ...,  Gnjatic S. Immunological biomarkers of response and resistance to treatment with cabozantinib and nivolumab in recurrent endometrial cancer.  **J Immunother Cancer.** 2025'
+  date: 202501
+  image: '/static/img/pub/e010541.full.png'
+  pmid: 40010771
+  pmcid: PMC11865721
+  pdf: '/static/pdf/e010541.full.pdf'
+  links:
+    - name: "J Immunother Cancer."
+      url: 'https://jitc.bmj.com/lookup/pmidlookup?view=long&pmid=40010771'
+      
 - citation: 'Wen PY, et al., A multi-institutional phase 1 clinical trial exploring upfront multimodal standard of care and combined immunotherapies for newly diagnosed glioblastoma.  **Neuro Oncol.** 2025'
   date: 202501
   image: '/static/img/pub/noaf079.png'
