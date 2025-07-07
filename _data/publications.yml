@@ -1,5 +1,15 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
+- citation: 'Pravin Patel et al, ...,  Haymaker CL, Kurzrock R. Immunological biomarkers of response and resistance to treatment with cabozantinib and nivolumab in recurrent endometrial cancer.  **J Immunother Cancer.** 2025'
+  date: 202507
+  image: '/static/img/pub/jitc-13-6.png'
+  pmid: 40588371
+  pmcid: PMC12211841
+  pdf: '/static/pdf/jitc-13-6.pdf'
+  links:
+    - name: "J Immunother Cancer."
+      url: 'https://pubmed.ncbi.nlm.nih.gov/40588371/'
+      
 - citation: 'Roudko V, Del Valle DM, ...,  Gnjatic S. Immunological biomarkers of response and resistance to treatment with cabozantinib and nivolumab in recurrent endometrial cancer.  **J Immunother Cancer.** 2025'
   date: 202501
   image: '/static/img/pub/e010541.full.png'
