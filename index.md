@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-## Applied Computational and Systems Biology Laboratory
+## Computational Biology Laboratory
 
 I'm an Assistant Professor part of the [Immunology and Immunotherapy Department](https://icahn.mssm.edu/about/departments-offices/immunology-immunotherapy) in the [Icahn School of Medicine](https://icahn.mssm.edu/). 
 
