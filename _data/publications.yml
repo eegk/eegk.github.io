@@ -1,6 +1,6 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
-- citation: 'Buckup M, Figueiredo I, Ioannou, ..., Roudko V, Gonzalez-Kozlova E, Hamon P, Merad M, Gnjatic S. Multiparametric cellular and spatial organization in cancer tissue lesions with a streamlined pipeline.  **Nat Biomed Eng** 2025'
+- citation: 'Buckup M, Figueiredo I, Ioannou, ..., Roudko V, Gonzalez-Kozlova E, Hamon P, Merad M, Gnjatic S. Multiparametric cellular and spatial organization in cancer tissue lesions with a streamlined pipeline. **Nat Biomed Eng** 2025'
   date: 202507
   image: '/static/img/pub/s41551-025-01475-9.png'
 #pmid: 40588371
@@ -10,7 +10,7 @@
     - name: "Nat Biomed Eng"
       url: 'https://www.nature.com/articles/s41551-025-01475-9'
       
-- citation: 'Pravin Patel et al, ...,  Haymaker CL, Kurzrock R. Immunological biomarkers of response and resistance to treatment with cabozantinib and nivolumab in recurrent endometrial cancer.  **J Immunother Cancer.** 2025'
+- citation: 'Pravin Patel et al, ...,  Haymaker CL, Kurzrock R. Phase II basket trial of Dual Anti-CTLA-4 and anti-PD-1 blockade in Rare Tumors (DART) SWOG S1609: pancreatic neuroendocrine neoplasm (PNEN) cohort. **J Immunother Cancer.** 2025'
   date: 202507
   image: '/static/img/pub/jitc-13-6.png'
   pmid: 40588371
