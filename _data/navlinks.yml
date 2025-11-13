@@ -18,6 +18,14 @@
 #  link: "/news"
 #  group: news
 
+- name: videos
+  link: "/videos"
+  group: videos
+
+- name: software
+  link: "/software"
+  group: software
+
 - name: contact
   link: "/contact"
   group: contact
