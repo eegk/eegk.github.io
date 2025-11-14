@@ -1,10 +1,23 @@
-- name: "MARQO"
-  description: >
-    MARQO is an open-source, automated pipeline that streamlines whole-slide, single-cell multiplex imaging analysis by integrating image registration, segmentation, clustering, and user-guided classification to enable high-throughput, spatially resolved quantification and validation of marker co-expression across diverse tissue types and staining methods.
-  link: "https://github.com/igorafsouza/MARQO"
+---
+title: Software
+layout: default
+group: software
+---
 
-- name: "Center Limit Theorem Boost"
-  description: >
-    This R script efficiently generates subsampled average expression matrices from Seurat objects by randomly sampling 10% of cells across each cluster and averaging gene expression. It removes empty clusters, builds new Seurat objects per cluster, and merges all into a single object for downstream analyses.
-  link: "https://github.com/eegk/CTL_scRNAseq_signal_enhancement"
-  language: "R"
+# Software
+
+Below is a collection of software tools developed, maintained, or used by our group.
+
+{% raw %}
+<ul class="software-list">
+{% for item in site.data.software %}
+  <li class="software-item">
+    <h3>{{ item.name }}</h3>
+    <p>{{ item.description }}</p>
+    {% if item.link %}
+      <p><a href="{{ item.link }}" target="_blank">GitHub Repository →</a></p>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+{% endraw %}
