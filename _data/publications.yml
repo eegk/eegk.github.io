@@ -17,358 +17,358 @@
     links:
       - name: "Nat Biomed Eng"
         url: 'https://www.nature.com/articles/s41551-025-01475-9'
+
+  - citation: 'Pravin Patel et al, ...,  Haymaker CL, Kurzrock R. Phase II basket trial of Dual Anti-CTLA-4 and anti-PD-1 blockade in Rare Tumors (DART) SWOG S1609: pancreatic neuroendocrine neoplasm (PNEN) cohort. **J Immunother Cancer.** 2025'
+    date: 202507
+    image: '/static/img/pub/jitc-13-6.png'
+    pmid: 40588371
+    pmcid: PMC12211841
+    pdf: '/static/pdf/jitc-13-6.pdf'
+    links:
+      - name: "J Immunother Cancer."
+        url: 'https://pubmed.ncbi.nlm.nih.gov/40588371/'
       
-- citation: 'Pravin Patel et al, ...,  Haymaker CL, Kurzrock R. Phase II basket trial of Dual Anti-CTLA-4 and anti-PD-1 blockade in Rare Tumors (DART) SWOG S1609: pancreatic neuroendocrine neoplasm (PNEN) cohort. **J Immunother Cancer.** 2025'
-  date: 202507
-  image: '/static/img/pub/jitc-13-6.png'
-  pmid: 40588371
-  pmcid: PMC12211841
-  pdf: '/static/pdf/jitc-13-6.pdf'
-  links:
-    - name: "J Immunother Cancer."
-      url: 'https://pubmed.ncbi.nlm.nih.gov/40588371/'
+  - citation: 'Roudko V, Del Valle DM, ...,  Gnjatic S. Immunological biomarkers of response and resistance to treatment with cabozantinib and nivolumab in recurrent endometrial cancer.  **J Immunother Cancer.** 2025'
+    date: 202501
+    image: '/static/img/pub/e010541.full.png'
+    pmid: 40010771
+    pmcid: PMC11865721
+    pdf: '/static/pdf/e010541.full.pdf'
+    links:
+      - name: "J Immunother Cancer."
+        url: 'https://jitc.bmj.com/lookup/pmidlookup?view=long&pmid=40010771'
       
-- citation: 'Roudko V, Del Valle DM, ...,  Gnjatic S. Immunological biomarkers of response and resistance to treatment with cabozantinib and nivolumab in recurrent endometrial cancer.  **J Immunother Cancer.** 2025'
-  date: 202501
-  image: '/static/img/pub/e010541.full.png'
-  pmid: 40010771
-  pmcid: PMC11865721
-  pdf: '/static/pdf/e010541.full.pdf'
-  links:
-    - name: "J Immunother Cancer."
-      url: 'https://jitc.bmj.com/lookup/pmidlookup?view=long&pmid=40010771'
+  - citation: 'Wen PY, et al., A multi-institutional phase 1 clinical trial exploring upfront multimodal standard of care and combined immunotherapies for newly diagnosed glioblastoma.  **Neuro Oncol.** 2025'
+    date: 202501
+    image: '/static/img/pub/noaf079.png'
+    pmid: 40120123
+    pdf: '/static/pdf/noaf079.pdf'
+    links:
+      - name: "Neuro Oncol"
+        url: 'https://academic.oup.com/neuro-oncology/advance-article/doi/10.1093/neuonc/noaf079/8090476?login=true'
+
+  - citation: 'Jayaraman P, et al., Peripheral Transcriptomics in Acute and Long-Term Kidney Dysfunction in SARS-CoV2 Infection. **Kidney360.** 2025' 
+    date: 202501
+    image: '/static/img/pub/kidney360.png'
+    pmid: 39899385
+    pdf: '/static/pdf/kidkey360.pdf'
+    links:
+      - name: "Kidney360"
+        url: 'https://journals.lww.com/kidney360/abstract/9900/peripheral_transcriptomics_in_acute_and_long_term.584.aspx' 
+
+  - citation: 'Shang J, et al., Baseline colitogenicity and acute perturbations of gut microbiota in immunotherapy-related colitis. **J Exp Med.** 2025' 
+    date: 202501
+    image: '/static/img/pub/jem_20232079.png'
+    pmid: 39666007
+    pmcid: PMC11636624
+    pdf: '/static/pdf/jem_20232079.pdf'
+    links:
+      - name: "JEM"
+        url: 'https://rupress.org/jem/article/222/1/e20232079/277155/Baseline-colitogenicity-and-acute-perturbations-of' 
       
-- citation: 'Wen PY, et al., A multi-institutional phase 1 clinical trial exploring upfront multimodal standard of care and combined immunotherapies for newly diagnosed glioblastoma.  **Neuro Oncol.** 2025'
-  date: 202501
-  image: '/static/img/pub/noaf079.png'
-  pmid: 40120123
-  pdf: '/static/pdf/noaf079.pdf'
-  links:
-    - name: "Neuro Oncol"
-      url: 'https://academic.oup.com/neuro-oncology/advance-article/doi/10.1093/neuonc/noaf079/8090476?login=true'
+  - citation: 'Miceli RT, ..., **Gonzalez-Kozlova E**, Dogra N. Extracellular vesicles, RNA sequencing, and bioinformatic analyses: Challenges, solutions, and recommendations. **J Extracell Vesicles.** 2024' 
+    date: 202412
+    image: '/static/img/pub/J of Extracellular Vesicle - 2024 - Miceli - Extracellular vesicles  RNA sequencing  and bioinformatic analyses  Challenges.png'
+    pmid: 39625409
+    pmcid: PMC11613500
+    pdf: '/static/pdf/J of Extracellular Vesicle - 2024 - Miceli - Extracellular vesicles  RNA sequencing  and bioinformatic analyses  Challenges.pdf'
+    links:
+      - name: "JEV"
+        url: 'https://isevjournals.onlinelibrary.wiley.com/doi/epdf/10.1002/jev2.70005' 
 
-- citation: 'Jayaraman P, et al., Peripheral Transcriptomics in Acute and Long-Term Kidney Dysfunction in SARS-CoV2 Infection. **Kidney360.** 2025' 
-  date: 202501
-  image: '/static/img/pub/kidney360.png'
-  pmid: 39899385
-  pdf: '/static/pdf/kidkey360.pdf'
-  links:
-    - name: "Kidney360"
-      url: 'https://journals.lww.com/kidney360/abstract/9900/peripheral_transcriptomics_in_acute_and_long_term.584.aspx' 
-
-- citation: 'Shang J, et al., Baseline colitogenicity and acute perturbations of gut microbiota in immunotherapy-related colitis. **J Exp Med.** 2025' 
-  date: 202501
-  image: '/static/img/pub/jem_20232079.png'
-  pmid: 39666007
-  pmcid: PMC11636624
-  pdf: '/static/pdf/jem_20232079.pdf'
-  links:
-    - name: "JEM"
-      url: 'https://rupress.org/jem/article/222/1/e20232079/277155/Baseline-colitogenicity-and-acute-perturbations-of' 
+  - citation: 'Bao R, ..., Meerzaman D, Liu S, Van Allen EM, Xing Y. Ten challenges and opportunities in computational immuno-oncology. **J Immunother Cancer.** 2024' 
+    date: 202412
+    image: '/static/img/pub/e009721.full.png'
+    pmid: 39461879
+    pmcid: PMC11529678
+    pdf: '/static/pdf/e009721.full.pdf'
+    links:
+      - name: "JIC"
+        url: 'https://jitc.bmj.com/content/12/10/e009721.long'
       
-- citation: 'Miceli RT, ..., **Gonzalez-Kozlova E**, Dogra N. Extracellular vesicles, RNA sequencing, and bioinformatic analyses: Challenges, solutions, and recommendations. **J Extracell Vesicles.** 2024' 
-  date: 202412
-  image: '/static/img/pub/J of Extracellular Vesicle - 2024 - Miceli - Extracellular vesicles  RNA sequencing  and bioinformatic analyses  Challenges.png'
-  pmid: 39625409
-  pmcid: PMC11613500
-  pdf: '/static/pdf/J of Extracellular Vesicle - 2024 - Miceli - Extracellular vesicles  RNA sequencing  and bioinformatic analyses  Challenges.pdf'
-  links:
-    - name: "JEV"
-      url: 'https://isevjournals.onlinelibrary.wiley.com/doi/epdf/10.1002/jev2.70005' 
+  - citation: 'Cappuyns S, ..., Villanueva A, Dekervel J, Llovet JM. Single-cell RNA seq-derived signatures define response patterns to atezolizumab + bevacizumab in advanced hepatocellular carcinoma. **J Hepatol.** 2024' 
+    date: 202412
+    image: '/static/img/pub/1-s2.0-S0168827824027715-main.png'
+    pmid: 39709141
+    pmcid: PMC12086051
+    pdf: '/static/pdf/1-s2.0-S0168827824027715-main.pdf'
+    links:
+      - name: "JHEPAT"
+        url: 'https://www.sciencedirect.com/science/article/pii/S0168827824027715?via%3Dihub'
 
-- citation: 'Bao R, ..., Meerzaman D, Liu S, Van Allen EM, Xing Y. Ten challenges and opportunities in computational immuno-oncology. **J Immunother Cancer.** 2024' 
-  date: 202412
-  image: '/static/img/pub/e009721.full.png'
-  pmid: 39461879
-  pmcid: PMC11529678
-  pdf: '/static/pdf/e009721.full.pdf'
-  links:
-    - name: "JIC"
-      url: 'https://jitc.bmj.com/content/12/10/e009721.long'
+  - citation: 'Espada CE, et al., ISG15/USP18/STAT2 is a molecular hub regulating IFN I-mediated control of Dengue and Zika virus replication. **Front Immunol.** 2024' 
+    date: 202412
+    image: '/static/img/pub/fimmu-15-1331731.png'
+    pmid: 38384473
+    pmcid: PMC10879325
+    pdf: '/static/pdf/fimmu-15-1331731.pdf'
+    links:
+      - name: "CCR"
+        url: 'https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-24-2469/750770/The-Society-for-Immunotherapy-of-Cancer'
+
+  - citation: 'Monette A, ..., **Gonzalez-Kozlova E**, Tirosh I, Wang X, Gnjatic S. The Society for Immunotherapy of Cancer Perspective on Tissue-Based Technologies for Immuno-Oncology Biomarker Discovery and Application. **Clin Cancer Res.** 2024' 
+    date: 202412
+    image: '/static/img/pub/ccr-24-2469.png'
+    pmid: 39625818
+    pmcid: NA
+    pdf: '/static/pdf/ccr-24-2469.pdf'
+    links:
+      - name: "CCR"
+        url: 'https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-24-2469/750770/The-Society-for-Immunotherapy-of-Cancer'
       
-- citation: 'Cappuyns S, ..., Villanueva A, Dekervel J, Llovet JM. Single-cell RNA seq-derived signatures define response patterns to atezolizumab + bevacizumab in advanced hepatocellular carcinoma. **J Hepatol.** 2024' 
-  date: 202412
-  image: '/static/img/pub/1-s2.0-S0168827824027715-main.png'
-  pmid: 39709141
-  pmcid: PMC12086051
-  pdf: '/static/pdf/1-s2.0-S0168827824027715-main.pdf'
-  links:
-    - name: "JHEPAT"
-      url: 'https://www.sciencedirect.com/science/article/pii/S0168827824027715?via%3Dihub'
+  - citation: 'Archer M, Begemann D, **Gonzalez-Kozlova E**, Nepali PR, Labanca E, Shepherd P, Dogra N, Navone N, Kyprianou N. Kinesin Facilitates Phenotypic Targeting of Therapeutic Resistance in Advanced Prostate Cancer. **Mol Cancer Res.** 2024' 
+    date: 202401
+    image: '/static/img/pub/2024.mcr-23-1047.png'
+    pmid: 38648082
+    pmcid: PMC11296928
+    pdf: '/static/pdf/2024.mcr-23-1047.pdf'
+    links:
+      - name: "MCR"
+        url: 'https://aacrjournals.org/mcr/article/22/8/730/746666/Kinesin-Facilitates-Phenotypic-Targeting-of'
 
-- citation: 'Espada CE, et al., ISG15/USP18/STAT2 is a molecular hub regulating IFN I-mediated control of Dengue and Zika virus replication. **Front Immunol.** 2024' 
-  date: 202412
-  image: '/static/img/pub/fimmu-15-1331731.png'
-  pmid: 38384473
-  pmcid: PMC10879325
-  pdf: '/static/pdf/fimmu-15-1331731.pdf'
-  links:
-    - name: "CCR"
-      url: 'https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-24-2469/750770/The-Society-for-Immunotherapy-of-Cancer'
-
-- citation: 'Monette A, ..., **Gonzalez-Kozlova E**, Tirosh I, Wang X, Gnjatic S. The Society for Immunotherapy of Cancer Perspective on Tissue-Based Technologies for Immuno-Oncology Biomarker Discovery and Application. **Clin Cancer Res.** 2024' 
-  date: 202412
-  image: '/static/img/pub/ccr-24-2469.png'
-  pmid: 39625818
-  pmcid: NA
-  pdf: '/static/pdf/ccr-24-2469.pdf'
-  links:
-    - name: "CCR"
-      url: 'https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-24-2469/750770/The-Society-for-Immunotherapy-of-Cancer'
+  - citation: 'Dogra N\*, Chen TY\*, **Gonzalez-Kozlova E\***, Miceli R, Cordon-Cardo C, Tewari AK, Losic B, Stolovitzky G. Extracellular vesicles carry transcriptional dark matter revealing tissue-specific information. **J Extracell Vesicles.** 2024 \*contributed equally.'
+    date: 202401
+    image: '/static/img/pub/2024.JEV2-13-e12481.png'
+    pmid: 39148266
+    pmcid: PMC11327273
+    pdf: '/static/pdf/2024.JEV2-13-e12481.pdf'
+    links:
+      - name: "JEV"
+        url: 'https://isevjournals.onlinelibrary.wiley.com/doi/10.1002/jev2.12481'
       
-- citation: 'Archer M, Begemann D, **Gonzalez-Kozlova E**, Nepali PR, Labanca E, Shepherd P, Dogra N, Navone N, Kyprianou N. Kinesin Facilitates Phenotypic Targeting of Therapeutic Resistance in Advanced Prostate Cancer. **Mol Cancer Res.** 2024' 
-  date: 202401
-  image: '/static/img/pub/2024.mcr-23-1047.png'
-  pmid: 38648082
-  pmcid: PMC11296928
-  pdf: '/static/pdf/2024.mcr-23-1047.pdf'
-  links:
-    - name: "MCR"
-      url: 'https://aacrjournals.org/mcr/article/22/8/730/746666/Kinesin-Facilitates-Phenotypic-Targeting-of'
-
-- citation: 'Dogra N\*, Chen TY\*, **Gonzalez-Kozlova E\***, Miceli R, Cordon-Cardo C, Tewari AK, Losic B, Stolovitzky G. Extracellular vesicles carry transcriptional dark matter revealing tissue-specific information. **J Extracell Vesicles.** 2024 \*contributed equally.'
-  date: 202401
-  image: '/static/img/pub/2024.JEV2-13-e12481.png'
-  pmid: 39148266
-  pmcid: PMC11327273
-  pdf: '/static/pdf/2024.JEV2-13-e12481.pdf'
-  links:
-    - name: "JEV"
-      url: 'https://isevjournals.onlinelibrary.wiley.com/doi/10.1002/jev2.12481'
+  - citation: '**Gonzalez-Kozlova E**, Huang HH, Jegede OA, Tuballes K, Del Valle DM, ..., Kim-Schulze S, Diefenbach CS, Gnjatic S. Tumor-immune signatures of treatment resistance to brentuximab vedotin with ipilimumab and/or nivolumab in Hodgkin lymphoma. **Cancer Res. Commun.** 2024'  
+    date: 202401
+    image: '/static/img/pub/egk_crc-24-0252.png'
+    pmid: 38934093
+    pmcid: NA
+    pdf: '/static/pdf/egk_crc-24-0252.pdf'
+    links:
+      - name: "CRC"
+        url: 'https://aacrjournals.org/cancerrescommun/article/4/7/1726/746418/Tumor-Immune-Signatures-of-Treatment-Resistance-to'
       
-- citation: '**Gonzalez-Kozlova E**, Huang HH, Jegede OA, Tuballes K, Del Valle DM, ..., Kim-Schulze S, Diefenbach CS, Gnjatic S. Tumor-immune signatures of treatment resistance to brentuximab vedotin with ipilimumab and/or nivolumab in Hodgkin lymphoma. **Cancer Res. Commun.** 2024'  
-  date: 202401
-  image: '/static/img/pub/egk_crc-24-0252.png'
-  pmid: 38934093
-  pmcid: NA
-  pdf: '/static/pdf/egk_crc-24-0252.pdf'
-  links:
-    - name: "CRC"
-      url: 'https://aacrjournals.org/cancerrescommun/article/4/7/1726/746418/Tumor-Immune-Signatures-of-Treatment-Resistance-to'
+  - citation: 'Parra ER\*, Zhang J\*, Duose DY\*, **Gonzalez-Kozlova E\***, Redman MW, ..., Gnjatic S, Lee JJ, Zhang J, Haymaker C. Multi-omics analysis reveals immune features associated with immunotherapy benefit in squamous cell lung cancer patients from Phase III Lung-MAP S1400I trial. **Clin Cancer Res.** 2024 \*contributed equally.'
+    date: 202401
+    image: '/static/img/pub/s1400i.png'
+    pmid: 38277235
+    pmcid: NA
+    pdf: '/static/pdf/ccr-23-0251.pdf'
+    links:
+      - name: "CCR"
+        url: 'https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-23-0251/734943/Multi-omics-Analysis-Reveals-Immune-Features'
+
+  - citation: 'LaMarche NM et al., An IL-4 signalling axis in bone marrow drives pro-tumorigenic myelopoiesis. **Nature.** 2024' 
+    date: 202401
+    image: '/static/img/pub/lamarche.png'
+    pmid: 38057662
+    pmcid: NA
+    pdf: '/static/pdf/s41586-023-06797-9.pdf'
+    links:
+      - name: "Nature"
+        url: 'https://www.nature.com/articles/s41586-023-06797-9'
       
-- citation: 'Parra ER\*, Zhang J\*, Duose DY\*, **Gonzalez-Kozlova E\***, Redman MW, ..., Gnjatic S, Lee JJ, Zhang J, Haymaker C. Multi-omics analysis reveals immune features associated with immunotherapy benefit in squamous cell lung cancer patients from Phase III Lung-MAP S1400I trial. **Clin Cancer Res.** 2024 \*contributed equally.'
-  date: 202401
-  image: '/static/img/pub/s1400i.png'
-  pmid: 38277235
-  pmcid: NA
-  pdf: '/static/pdf/ccr-23-0251.pdf'
-  links:
-    - name: "CCR"
-      url: 'https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-23-0251/734943/Multi-omics-Analysis-Reveals-Immune-Features'
+  - citation: 'Galsky MD, Daneshmand S, Izadmehr S, **Gonzalez-Kozlova E**, ..., Gnjatic S, Sfakianos J, Pal SK. Gemcitabine and cisplatin plus nivolumab as organ-sparing treatment for muscle-invasive bladder cancer: a phase 2 trial. **Nat Med.** 2023.'
+    date: 202310
+    image: '/static/img/pub/Galski.study.png'
+    pmid: 37783966
+    pmcid: PMC10667093
+    pdf: '/static/pdf/s41591-023-02568-1.pdf'
+    links:
+      - name: "Nat Med"
+        url: 'https://www.nature.com/articles/s41591-023-02568-1'
 
-- citation: 'LaMarche NM et al., An IL-4 signalling axis in bone marrow drives pro-tumorigenic myelopoiesis. **Nature.** 2024' 
-  date: 202401
-  image: '/static/img/pub/lamarche.png'
-  pmid: 38057662
-  pmcid: NA
-  pdf: '/static/pdf/s41586-023-06797-9.pdf'
-  links:
-    - name: "Nature"
-      url: 'https://www.nature.com/articles/s41586-023-06797-9'
+  - citation: 'Soleymani T.\*, Chen T.\*, **Gonzalez-Kozlova E**., Dogra N. The human neurosecretome: extracellular vesicles and particles (EVPs) of the brain for intercellular communication, therapy, and liquid-biopsy applications. **Frontiers in Molecular Biosciences** 2023. \*contributed equally.'
+    date: 202301
+    image: '/static/img/pub/the.neurosecretome.png'
+    pmid: 37266331
+    pmcid: PMC10229797
+    pdf: '/static/pdf/the.neurosecretome.pdf'
+    links:
+      - name: "Frontiers"
+        url: 'https://www.frontiersin.org/articles/10.3389/fmolb.2023.1156821/full'
+
+  - citation: 'Coffey DG., Maura F., **Gonzalez-Kozlova E**., ..., Gnjatic S., Landgren O. Immunophenotypic correlates of sustained MRD negativity in patients with multiple myeloma. **Nature Communications** 2023. \*contributed equally.'
+    date: 202301
+    image: '/static/img/pub/41467_2023_Article_40966.png'
+    pmid: 37660077
+    pmcid: PMC10475030
+    pdf: '/static/pdf/41467_2023_Article_40966.pdf'
+    links:
+      - name: "Nat Comm"
+        url: 'https://www.nature.com/articles/s41467-023-40966-8'
+
+  - citation: 'Pilcher W., Thomas BE., Bhasin SS., Jayasinghe RG., Yao L., **Gonzalez-Kozlova E**., ..., Gnjatic S., Ding L., Bhasin M. Cross center single-cell RNA sequencing study of the immune microenvironment in rapid progressing multiple myeloma. **npj genomic medicine** 2023.'
+    date: 202301
+    image: '/static/img/pub/s41525_022_00340_x.png'
+    pmid: 36702834 
+    pmcid: PMC9879959
+    pdf: '/static/pdf/s41525_022_00340_x.pdf'
+    links:
+      - name: "npj genomic medicine"
+        url: 'https://www.nature.com/articles/s41525-022-00340-x'
+
+  - citation: 'Su CY\*., Zhou S\*., **Gonzalez-Kozlova E\***., ..., Gnjatic S., Kaufmann D., Merad M. Circulating proteins to predict COVID‐19 severity **Scientific Reports** 2023. \*contributed equally.'
+    date: 202301
+    image: '/static/img/pub/s41598_023_31850_y.png'
+    pmid: 37069249
+    pmcid: PMC10107586
+    pdf: '/static/pdf/s41598_023_31850_y.pdf'
+    links:
+      - name: "Nat Comm"
+        url: 'https://www.nature.com/articles/s41467-023-40966-8'
+
+  - citation: 'Magen A., ..., **Gonzalez-Kozlova E**., ..., Gnjatic S., ..., Merad M. Intratumoral dendritic cell–CD4+ T helper cell niches enable CD8+ T cell differentiation following PD-1 blockade in hepatocellular carcinoma. **Nature Medicine** 2023. '
+    date: 202301
+    image: '/static/img/pub/magenetal.png'
+    pmid: 37322116
+    pdf: '/static/pdf/cd4_cxcl13_article.pdf'
+    links:
+      - name: "Nat Med"
+        url: 'https://www.nature.com/articles/s41591-023-02345-0'
+
+  - citation: 'Li X.\*, La Salvia S.\*, Liang Y.\*, ..., **Gonzalez-Kozlova E**., Dubois N, Dogra N., Hajjar R., Sahoo S. Extracellular Vesicle–Encapsulated Adeno-Associated Viruses for Therapeutic Gene Delivery to the Heart. **Circulation** 2023. \*contributed equally.'
+    date: 202301
+    image: '/static/img/pub/circulation_AAV-EV.png'
+    pmid: 37409482
+    pdf: '/static/pdf/li-et-al-2023-extracellular-vesicle-encapsulated-adeno-associated-viruses-for-therapeutic-gene-delivery-to-the-heart.pdf'
+    links:
+      - name: "Circulation"
+        url: 'https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.063759?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org'
       
-- citation: 'Galsky MD, Daneshmand S, Izadmehr S, **Gonzalez-Kozlova E**, ..., Gnjatic S, Sfakianos J, Pal SK. Gemcitabine and cisplatin plus nivolumab as organ-sparing treatment for muscle-invasive bladder cancer: a phase 2 trial. **Nat Med.** 2023.'
-  date: 202310
-  image: '/static/img/pub/Galski.study.png'
-  pmid: 37783966
-  pmcid: PMC10667093
-  pdf: '/static/pdf/s41591-023-02568-1.pdf'
-  links:
-    - name: "Nat Med"
-      url: 'https://www.nature.com/articles/s41591-023-02568-1'
+  - citation: 'Chen TY\*, **Gonzalez-Kozlova E\***, Soleymani T, La Salvia S, Kyprianou N, Sahoo S, Tewari AK, Cordon-Cardo C, Stolovitzky G, Dogra N. Extracellular vesicles carry distinct proteo-transcriptomic signatures that are different from their cancer cell of origin. **iScience** 2022. \*contributed equally.'
+    date: 202201
+    image: '/static/img/pub/proteo_transcriptome_evs2022.jpg'
+    pmid: 35663013
+    pmcid: PMC9157216
+    pdf: '/static/pdf/2022.proteo-transcriptomics.evs.pdf'
+    links:
+      - name: "Dogra Lab"
+        url: 'https://labs.icahn.mssm.edu/dogralab/'
 
-- citation: 'Soleymani T.\*, Chen T.\*, **Gonzalez-Kozlova E**., Dogra N. The human neurosecretome: extracellular vesicles and particles (EVPs) of the brain for intercellular communication, therapy, and liquid-biopsy applications. **Frontiers in Molecular Biosciences** 2023. \*contributed equally.'
-  date: 202301
-  image: '/static/img/pub/the.neurosecretome.png'
-  pmid: 37266331
-  pmcid: PMC10229797
-  pdf: '/static/pdf/the.neurosecretome.pdf'
-  links:
-    - name: "Frontiers"
-      url: 'https://www.frontiersin.org/articles/10.3389/fmolb.2023.1156821/full'
+  - citation: '**Gonzalez-Kozlova E**. Molecular Profiling of Liquid Biopsies for Precision Oncology. **Adv Exp Med Biol 2022**.'
+    date: 202201
+    image: '/static/img/pub/cmp_met_2022.png'
+    pmid: 35230692
+    pdf: '/static/pdf/cmp_met_2022.pdf'
+    links:
+      - name: "Computational Methods for Precision Oncology"
+        url: 'https://link.springer.com/chapter/10.1007/978-3-030-91836-1_13'
 
-- citation: 'Coffey DG., Maura F., **Gonzalez-Kozlova E**., ..., Gnjatic S., Landgren O. Immunophenotypic correlates of sustained MRD negativity in patients with multiple myeloma. **Nature Communications** 2023. \*contributed equally.'
-  date: 202301
-  image: '/static/img/pub/41467_2023_Article_40966.png'
-  pmid: 37660077
-  pmcid: PMC10475030
-  pdf: '/static/pdf/41467_2023_Article_40966.pdf'
-  links:
-    - name: "Nat Comm"
-      url: 'https://www.nature.com/articles/s41467-023-40966-8'
-
-- citation: 'Pilcher W., Thomas BE., Bhasin SS., Jayasinghe RG., Yao L., **Gonzalez-Kozlova E**., ..., Gnjatic S., Ding L., Bhasin M. Cross center single-cell RNA sequencing study of the immune microenvironment in rapid progressing multiple myeloma. **npj genomic medicine** 2023.'
-  date: 202301
-  image: '/static/img/pub/s41525_022_00340_x.png'
-  pmid: 36702834 
-  pmcid: PMC9879959
-  pdf: '/static/pdf/s41525_022_00340_x.pdf'
-  links:
-    - name: "npj genomic medicine"
-      url: 'https://www.nature.com/articles/s41525-022-00340-x'
-
-- citation: 'Su CY\*., Zhou S\*., **Gonzalez-Kozlova E\***., ..., Gnjatic S., Kaufmann D., Merad M. Circulating proteins to predict COVID‐19 severity **Scientific Reports** 2023. \*contributed equally.'
-  date: 202301
-  image: '/static/img/pub/s41598_023_31850_y.png'
-  pmid: 37069249
-  pmcid: PMC10107586
-  pdf: '/static/pdf/s41598_023_31850_y.pdf'
-  links:
-    - name: "Nat Comm"
-      url: 'https://www.nature.com/articles/s41467-023-40966-8'
-
-- citation: 'Magen A., ..., **Gonzalez-Kozlova E**., ..., Gnjatic S., ..., Merad M. Intratumoral dendritic cell–CD4+ T helper cell niches enable CD8+ T cell differentiation following PD-1 blockade in hepatocellular carcinoma. **Nature Medicine** 2023. '
-  date: 202301
-  image: '/static/img/pub/magenetal.png'
-  pmid: 37322116
-  pdf: '/static/pdf/cd4_cxcl13_article.pdf'
-  links:
-    - name: "Nat Med"
-      url: 'https://www.nature.com/articles/s41591-023-02345-0'
-
-- citation: 'Li X.\*, La Salvia S.\*, Liang Y.\*, ..., **Gonzalez-Kozlova E**., Dubois N, Dogra N., Hajjar R., Sahoo S. Extracellular Vesicle–Encapsulated Adeno-Associated Viruses for Therapeutic Gene Delivery to the Heart. **Circulation** 2023. \*contributed equally.'
-  date: 202301
-  image: '/static/img/pub/circulation_AAV-EV.png'
-  pmid: 37409482
-  pdf: '/static/pdf/li-et-al-2023-extracellular-vesicle-encapsulated-adeno-associated-viruses-for-therapeutic-gene-delivery-to-the-heart.pdf'
-  links:
-    - name: "Circulation"
-      url: 'https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.063759?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org'
+  - citation: 'Aranda CJ\*, **Gonzalez‐Kozlova E\***, Saunders SP, …, Guttman‐Yassky E, Curotto de Lafaille MA. IgG memory B cells expressing IL4R and FCER2 are associated with atopic diseases. **Allergy 2022**.  \*contributed equally.'
+    date: 202201
+    image: '/static/img/pub/allergy.jpg'
+    pmid: 36445014
+    pdf: '/static/pdf/allergy_2022.pdf'
+    links:
+      - name: "Allergy 2022"
+        url: 'https://onlinelibrary.wiley.com/doi/10.1111/all.15601'
       
-- citation: 'Chen TY\*, **Gonzalez-Kozlova E\***, Soleymani T, La Salvia S, Kyprianou N, Sahoo S, Tewari AK, Cordon-Cardo C, Stolovitzky G, Dogra N. Extracellular vesicles carry distinct proteo-transcriptomic signatures that are different from their cancer cell of origin. **iScience** 2022. \*contributed equally.'
-  date: 202201
-  image: '/static/img/pub/proteo_transcriptome_evs2022.jpg'
-  pmid: 35663013
-  pmcid: PMC9157216
-  pdf: '/static/pdf/2022.proteo-transcriptomics.evs.pdf'
-  links:
-    - name: "Dogra Lab"
-      url: 'https://labs.icahn.mssm.edu/dogralab/'
+  - citation: 'Thompson RC, Simons NW, Wilkins L, ..., **Edgar Gonzalez-Kozlova**, Boyman O, Kim-Schulze S, Sebra R, Merad M, Gnjatic S, Schadt EE, Charney AW & Beckmann ND. Molecular states during acute COVID-19 reveal distinct etiologies of long-term sequelae. **Nat Med 2022**.'
+    date: 202201
+    image: '/static/img/pub/sequela_covid_22.jpg'
+    pmid: 36482101
+    pdf: '/static/pdf/sequela_covid_22.pdf'
+    links:
+      - name: "Nat Med 2022"
+        url: 'https://www.nature.com/articles/s41591-022-02107-4'
 
-- citation: '**Gonzalez-Kozlova E**. Molecular Profiling of Liquid Biopsies for Precision Oncology. **Adv Exp Med Biol 2022**.'
-  date: 202201
-  image: '/static/img/pub/cmp_met_2022.png'
-  pmid: 35230692
-  pdf: '/static/pdf/cmp_met_2022.pdf'
-  links:
-    - name: "Computational Methods for Precision Oncology"
-      url: 'https://link.springer.com/chapter/10.1007/978-3-030-91836-1_13'
-
-- citation: 'Aranda CJ\*, **Gonzalez‐Kozlova E\***, Saunders SP, …, Guttman‐Yassky E, Curotto de Lafaille MA. IgG memory B cells expressing IL4R and FCER2 are associated with atopic diseases. **Allergy 2022**.  \*contributed equally.'
-  date: 202201
-  image: '/static/img/pub/allergy.jpg'
-  pmid: 36445014
-  pdf: '/static/pdf/allergy_2022.pdf'
-  links:
-    - name: "Allergy 2022"
-      url: 'https://onlinelibrary.wiley.com/doi/10.1111/all.15601'
+  - citation: 'Carbonell G\*, Del Valle MD\*, **Gonzalez-Kozlova E\***, ..., Gnjatic S, Taouli B. Quantitative chest computed tomography combined with plasma cytokines predict outcomes in COVID-19 patients. **Heliyon 2022**. \*contributed equally.'
+    date: 202201
+    image: '/static/img/pub/heliyon2022_covid19.jpg'
+    pmid: 35958514
+    pmcid: PMC9356575
+    pdf: '/static/pdf/heliyon2022_covid19.pdf'
+    links:
+      - name: "Heliyon 2022"
+        url: 'https://doi.org/10.1016/j.heliyon.2022.e10166'
       
-- citation: 'Thompson RC, Simons NW, Wilkins L, ..., **Edgar Gonzalez-Kozlova**, Boyman O, Kim-Schulze S, Sebra R, Merad M, Gnjatic S, Schadt EE, Charney AW & Beckmann ND. Molecular states during acute COVID-19 reveal distinct etiologies of long-term sequelae. **Nat Med 2022**.'
-  date: 202201
-  image: '/static/img/pub/sequela_covid_22.jpg'
-  pmid: 36482101
-  pdf: '/static/pdf/sequela_covid_22.pdf'
-  links:
-    - name: "Nat Med 2022"
-      url: 'https://www.nature.com/articles/s41591-022-02107-4'
+  - citation: 'Butler-Laporte G\*, **Gonzalez-Kozlova E\***, Su CY, Zhou S, ..., Gnjatic S, Richards JB. The dynamic changes and sex differences of 147 immune-related proteins during acute COVID-19 in 580 individuals. **Clin Proteomics 2022.** \*contributed equally.'
+    date: 202201
+    image: '/static/img/pub/sex_covid19_2022.jpg'
+    pmid: 36171541
+    pmcid: PMC9516500
+    pdf: '/static/pdf/sex_covid19_2022.pdf'
+    links:
+      - name: "Clin Proteomics 2022"
+        url: 'https://doi.org/10.1186/s12014-022-09371-z'
 
-- citation: 'Carbonell G\*, Del Valle MD\*, **Gonzalez-Kozlova E\***, ..., Gnjatic S, Taouli B. Quantitative chest computed tomography combined with plasma cytokines predict outcomes in COVID-19 patients. **Heliyon 2022**. \*contributed equally.'
-  date: 202201
-  image: '/static/img/pub/heliyon2022_covid19.jpg'
-  pmid: 35958514
-  pmcid: PMC9356575
-  pdf: '/static/pdf/heliyon2022_covid19.pdf'
-  links:
-    - name: "Heliyon 2022"
-      url: 'https://doi.org/10.1016/j.heliyon.2022.e10166'
+  - citation: 'Medina-Santos R, Fernandes Costa TG, Silva de Assis TC, Kalapothakis Y, de Almeida Lima S, do Carmo AO, **Gonzalez-Kozlova E**, Kalapothakis E, Chávez-Olórtegui C, Guerra-Duarte C. Analysis of NGS data from Peruvian Loxosceles laeta spider venom gland reveals toxin diversity. **Comp Biochem Physiol Part D Genomics Proteomics 2022**.'
+    date: 202201
+    image: '/static/img/pub/spiders_2022.jpg'
+    pmid: 35932519
+    pdf: 'https://doi.org/10.1016/j.cbd.2022.101017'
+    links:
+      - name: "Comp Biochem Physiol Part D Genomics Proteomics 2022"
+        url: 'https://doi.org/10.1016/j.cbd.2022.101017'
+
+  - citation: 'Gaglani S, **Gonzalez-Kozlova E**, Lundon DJ, Tewari AK, Dogra N, Kyprianou N. Exosomes as A Next-Generation Diagnostic and Therapeutic Tool in Prostate Cancer. **Int J Mol Sci.** 2021.'
+    date: 202101
+    image: '/static/img/pub/exo_review2021.jpg'
+    pmid: 34576294
+    pmcid: PMC8465219
+    pdf: '/static/pdf/exo_review2021.pdf'
+    links:
+      - name: "Int J Mol Sci 2021"
+        url: 'https://doi.org/10.3390/ijms221810131'
       
-- citation: 'Butler-Laporte G\*, **Gonzalez-Kozlova E\***, Su CY, Zhou S, ..., Gnjatic S, Richards JB. The dynamic changes and sex differences of 147 immune-related proteins during acute COVID-19 in 580 individuals. **Clin Proteomics 2022.** \*contributed equally.'
-  date: 202201
-  image: '/static/img/pub/sex_covid19_2022.jpg'
-  pmid: 36171541
-  pmcid: PMC9516500
-  pdf: '/static/pdf/sex_covid19_2022.pdf'
-  links:
-    - name: "Clin Proteomics 2022"
-      url: 'https://doi.org/10.1186/s12014-022-09371-z'
+  - citation: 'von Felden J, Garcia-Lezana T, Dogra N, **Gonzalez-Kozlova E**, ..., Stolovitzky G, Losic B, Villanueva A. Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer. **Gut.** 2021.'
+    date: 202101
+    image: '/static/img/pub/2021.smRCs.liver.cancer.jpg'
+    pmid: 34321221
+    pmcid: PMC8795201
+    pdf: '/static/pdf/2021.smRCs.liver.cancer.pdf'
+    links:
+      - name: "Gut 2021"
+        url: 'https://doi.org/10.1136/gutjnl-2021-325036'
 
-- citation: 'Medina-Santos R, Fernandes Costa TG, Silva de Assis TC, Kalapothakis Y, de Almeida Lima S, do Carmo AO, **Gonzalez-Kozlova E**, Kalapothakis E, Chávez-Olórtegui C, Guerra-Duarte C. Analysis of NGS data from Peruvian Loxosceles laeta spider venom gland reveals toxin diversity. **Comp Biochem Physiol Part D Genomics Proteomics 2022**.'
-  date: 202201
-  image: '/static/img/pub/spiders_2022.jpg'
-  pmid: 35932519
-  pdf: 'https://doi.org/10.1016/j.cbd.2022.101017'
-  links:
-    - name: "Comp Biochem Physiol Part D Genomics Proteomics 2022"
-      url: 'https://doi.org/10.1016/j.cbd.2022.101017'
-
-- citation: 'Gaglani S, **Gonzalez-Kozlova E**, Lundon DJ, Tewari AK, Dogra N, Kyprianou N. Exosomes as A Next-Generation Diagnostic and Therapeutic Tool in Prostate Cancer. **Int J Mol Sci.** 2021.'
-  date: 202101
-  image: '/static/img/pub/exo_review2021.jpg'
-  pmid: 34576294
-  pmcid: PMC8465219
-  pdf: '/static/pdf/exo_review2021.pdf'
-  links:
-    - name: "Int J Mol Sci 2021"
-      url: 'https://doi.org/10.3390/ijms221810131'
+  - citation: 'Hernandez-Meza G, von Felden J, **Gonzalez-Kozlova E**, ..., Gnjatic S, Merad M, Rahman AH. DNA Methylation Profiling of Human Hepatocarcinogenesis. **Hepatology**. 2021.'
+    date: 202101
+    image: '/static/img/pub/mesa.hcc.png'
+    pmid: 33237575
+    pmcid: PMC8144238
+    pdf: '/static/pdf/mesa_nihms-1650380.pdf'
+    links:
+      - name: "Hepatology 2021"
+        url: 'doi: 10.1002/hep.31659'
       
-- citation: 'von Felden J, Garcia-Lezana T, Dogra N, **Gonzalez-Kozlova E**, ..., Stolovitzky G, Losic B, Villanueva A. Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer. **Gut.** 2021.'
-  date: 202101
-  image: '/static/img/pub/2021.smRCs.liver.cancer.jpg'
-  pmid: 34321221
-  pmcid: PMC8795201
-  pdf: '/static/pdf/2021.smRCs.liver.cancer.pdf'
-  links:
-    - name: "Gut 2021"
-      url: 'https://doi.org/10.1136/gutjnl-2021-325036'
+  - citation: 'Geanon D, Lee B, **Gonzalez-Kozlova E**, ..., Gnjatic S, Merad M, Rahman AH. A streamlined whole blood CyTOF workflow defines a circulating immune cell signature of COVID-19. **Cytometry A**. 2021.'
+    date: 202101
+    image: '/static/img/pub/cytof_covid19.jpg'
+    pmid: 33496367
+    pmcid: PMC8013522
+    pdf: '/static/pdf/cytof_covid19.pdf'
+    links:
+      - name: "Cytometry A 2021"
+        url: 'https://doi.org/10.1002/cyto.a.24317'
 
-- citation: 'Hernandez-Meza G, von Felden J, **Gonzalez-Kozlova E**, ..., Gnjatic S, Merad M, Rahman AH. DNA Methylation Profiling of Human Hepatocarcinogenesis. **Hepatology**. 2021.'
-  date: 202101
-  image: '/static/img/pub/mesa.hcc.png'
-  pmid: 33237575
-  pmcid: PMC8144238
-  pdf: '/static/pdf/mesa_nihms-1650380.pdf'
-  links:
-    - name: "Hepatology 2021"
-      url: 'doi: 10.1002/hep.31659'
-      
-- citation: 'Geanon D, Lee B, **Gonzalez-Kozlova E**, ..., Gnjatic S, Merad M, Rahman AH. A streamlined whole blood CyTOF workflow defines a circulating immune cell signature of COVID-19. **Cytometry A**. 2021.'
-  date: 202101
-  image: '/static/img/pub/cytof_covid19.jpg'
-  pmid: 33496367
-  pmcid: PMC8013522
-  pdf: '/static/pdf/cytof_covid19.pdf'
-  links:
-    - name: "Cytometry A 2021"
-      url: 'https://doi.org/10.1002/cyto.a.24317'
+  - citation: 'Bubie A, **Gonzalez-Kozlova E**, ..., Akers N, Villanueva A, Losic B. Tumor fitness, immune exhaustion and clinical outcomes: impact of immune checkpoint inhibitors. **Sci Rep**. 2020.'
+    date: 202001
+    image: '/static/img/pub/bubie.png'
+    pmid: 32193450
+    pmcid: PMC7081289
+    pdf: '/static/pdf/bubie_41598_2020_Article_61992.pdf'
+    links:
+      - name: "Scientific Reports 2021"
+        url: 'doi: 10.1038/s41598-020-61992-2.'
 
-- citation: 'Bubie A, **Gonzalez-Kozlova E**, ..., Akers N, Villanueva A, Losic B. Tumor fitness, immune exhaustion and clinical outcomes: impact of immune checkpoint inhibitors. **Sci Rep**. 2020.'
-  date: 202001
-  image: '/static/img/pub/bubie.png'
-  pmid: 32193450
-  pmcid: PMC7081289
-  pdf: '/static/pdf/bubie_41598_2020_Article_61992.pdf'
-  links:
-    - name: "Scientific Reports 2021"
-      url: 'doi: 10.1038/s41598-020-61992-2.'
+  - citation: '**Gonzalez-Kozlova E**, Cerf L, ... Felicori L, Chávez-Olórtegui C, Machado-de-Ávila RA. Computational B-cell epitope identification and production of neutralizing murine antibodies against Atroxlysin-I. **Sci Rep**. 2018.'
+    date: 201801
+    image: '/static/img/pub/bcellcomp.png'
+    pmid: 30297733
+    pmcid: PMC6175905
+    pdf: '/static/pdf/eegk_41598_2018_Article_33298.pdf'
+    links:
+      - name: "Scientific Reports 2018"
+        url: 'doi: 10.1038/s41598-018-33298-x'
 
-- citation: '**Gonzalez-Kozlova E**, Cerf L, ... Felicori L, Chávez-Olórtegui C, Machado-de-Ávila RA. Computational B-cell epitope identification and production of neutralizing murine antibodies against Atroxlysin-I. **Sci Rep**. 2018.'
-  date: 201801
-  image: '/static/img/pub/bcellcomp.png'
-  pmid: 30297733
-  pmcid: PMC6175905
-  pdf: '/static/pdf/eegk_41598_2018_Article_33298.pdf'
-  links:
-    - name: "Scientific Reports 2018"
-      url: 'doi: 10.1038/s41598-018-33298-x'
-
-- citation: '**Gonzalez-Kozlova E**, Viart B, de Avila R, Felicori L, Chavez-Olortegui C. Classification epitopes in groups based on their protein family. **BMC Bioinformatics**. 2015.'
-  date: 201501
-  image: '/static/img/pub/bmc_eegk.png'
-  pmid: 26696329
-  pmcid: PMC4686779
-  pdf: '/static/pdf/bmc_1471-2105-16-S19-S7.pdf'
-  links:
-    - name: "BMC Bioinformatics 2015"
-      url: 'doi: 10.1186/1471-2105-16-S19-S7'
+  - citation: '**Gonzalez-Kozlova E**, Viart B, de Avila R, Felicori L, Chavez-Olortegui C. Classification epitopes in groups based on their protein family. **BMC Bioinformatics**. 2015.'
+    date: 201501
+    image: '/static/img/pub/bmc_eegk.png'
+    pmid: 26696329
+    pmcid: PMC4686779
+    pdf: '/static/pdf/bmc_1471-2105-16-S19-S7.pdf'
+    links:
+      - name: "BMC Bioinformatics 2015"
+        url: 'doi: 10.1186/1471-2105-16-S19-S7'
       
 #- citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015. \*contributed equally.'
 #  date: 201506
