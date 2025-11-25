@@ -11,7 +11,7 @@
   - citation: 'Buckup M, Figueiredo I, Ioannou, ..., Roudko V, Gonzalez-Kozlova E, Hamon P, Merad M, Gnjatic S. Multiparametric cellular and spatial organization in cancer tissue lesions with a streamlined pipeline. **Nat Biomed Eng.** 2025'
     date: 202507
     image: '/static/img/pub/s41551-025-01475-9.png'
-    #pmid: 40588371
+    pmid: 40588371
     #pmcid: PMC12211841
     pdf: '/static/pdf/s41551-025-01475-9.pdf'
     links:
