@@ -18,6 +18,16 @@
       - name: "Nat Biomed Eng"
         url: 'https://www.nature.com/articles/s41551-025-01475-9'
 
+  - citation: 'Nepali PR, Gonzalez-Kozlova E, ..., Kyprianou N. Effect of TGF-β mediated phenotypic changes on prostate cancer cell anoikis response. **Oncogene.** 2025'
+    date: 202509
+    image: '/static/img/pub/s41388-025-03600-z.png'
+    pmid: 41275067
+    #pmcid: PMC12211841
+    pdf: '/static/pdf/s41388-025-03600-z.pdf'
+    links:
+      - name: "Oncogene"
+        url: 'https://www.nature.com/articles/s41388-025-03600-z'
+
   - citation: 'Pravin Patel et al, ...,  Haymaker CL, Kurzrock R. Phase II basket trial of Dual Anti-CTLA-4 and anti-PD-1 blockade in Rare Tumors (DART) SWOG S1609: pancreatic neuroendocrine neoplasm (PNEN) cohort. **J Immunother Cancer.** 2025'
     date: 202507
     image: '/static/img/pub/jitc-13-6.png'
