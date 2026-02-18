@@ -195,7 +195,17 @@
     links:
       - name: "Nature"
         url: 'https://www.nature.com/articles/s41586-023-06797-9'
-      
+
+  - citation: 'Espada CE, ..., Mansur DS. ISG15/USP18/STAT2 is a molecular hub regulating IFN I-mediated control of Dengue and Zika virus replication. Front Immunol. 2024 '
+    date: 202410
+    image: '/static/img/pub/coti2024.png'
+    pmid: 38384473
+    pmcid: PMC10879325
+    pdf: '/static/pdf/coti2024.pdf'
+    links:
+      - name: "Front Immunol."
+        url: 'https://pubmed.ncbi.nlm.nih.gov/38384473/'  
+  
   - citation: 'Galsky MD, Daneshmand S, Izadmehr S, **Gonzalez-Kozlova E**, ..., Gnjatic S, Sfakianos J, Pal SK. Gemcitabine and cisplatin plus nivolumab as organ-sparing treatment for muscle-invasive bladder cancer: a phase 2 trial. **Nat Med.** 2023.'
     date: 202310
     image: '/static/img/pub/Galski.study.png'
@@ -379,6 +389,16 @@
     links:
       - name: "Scientific Reports 2021"
         url: 'doi: 10.1038/s41598-020-61992-2.'
+
+  - citation: 'Delgobo M, Mendes DA, **Kozlova E**, ..., Báfica A. An evolutionary recent IFN/IL-6/CEBP axis is linked to monocyte expansion and tuberculosis severity in humans. **Elife**. 2019'
+    date: 201901
+    image: '/static/img/pub/del_globo.png'
+    pmid: 31637998
+    pmcid: PMC6819084
+    pdf: '/static/pdf/del_globo.pdf'
+    links:
+      - name: "Elife"
+        url: 'https://elifesciences.org/articles/47013'
 
   - citation: '**Gonzalez-Kozlova E**, Cerf L, ... Felicori L, Chávez-Olórtegui C, Machado-de-Ávila RA. Computational B-cell epitope identification and production of neutralizing murine antibodies against Atroxlysin-I. **Sci Rep**. 2018.'
     date: 201801
