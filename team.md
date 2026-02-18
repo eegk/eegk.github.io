@@ -26,6 +26,13 @@ Research focus: Software/Statistical methods development and spatial data analys
 Staf Scientist (2023-Current)
 Research focus: Single cell analyses.
 
+## Mascot
+#### Bo (11 year old orange troublemaker)
+Research focus: Ensuring home made meals are of premium quality.
+
+#### Mimi (5 year old black menace)
+Resarch focus: Hissing at strangers and visitors alike.
+
 ---
 
 ## Alumni
