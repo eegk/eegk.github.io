@@ -1,3 +1,16 @@
+
+
+ Mar 4;7(2):266-286. doi: 10.1158/2643-3230.BCD-25-0205. PMID: .
+  - citation: 'Ohlstrom DJ, ..., Bhasin MK. Longitudinal Profiling of Tumor and Immune Compartments Uncovers Patterns of Dysregulation and Associations with Response in Multiple Myeloma. **Blood Cancer Discov.** 2026'
+    date: 202604
+    image: '/static/img/pub/bcd-25-0205.png'
+    pmid: 41364805
+    #pmcid: PMC12211841
+    pdf: '/static/pdf/bcd-25-0205.pdf'
+    links:
+      - name: "J Immunother Cancer."
+        url: 'https://jitc.bmj.com/content/14/3/e013499'
+
   - citation: 'Nose Y, Figueiredo I, ..., **Gonzalez-Kozlova E**, Gnjatic S. TCR sequencing in cancer immunology and immunotherapy: what, when, where, why, and how. **J Immunother Cancer.** 2026'
     date: 202603
     image: '/static/img/pub/e013499.full.png'
