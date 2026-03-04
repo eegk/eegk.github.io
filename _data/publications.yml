@@ -1,7 +1,17 @@
+  - citation: 'Nose Y MD, PhD, Figueiredo I, ..., Gonzalez-Kozlova E PhD, Gnjatic S PhD. TCR sequencing in cancer immunology and immunotherapy: what, when, where, why, and how. **J Immunother Cancer.** 2026'
+    date: 202603
+    image: '/static/img/pub/e013499.full.png'
+    pmid: 41775434
+    #pmcid: PMC12211841
+    pdf: '/static/pdf/e013499.full.pdf'
+    links:
+      - name: "J Immunother Cancer."
+        url: 'https://jitc.bmj.com/content/14/3/e013499'
+  
   - citation: '**Gonzalez-Kozlova E**, Sweeney R, Figueiredo I. Tuballes K, ..., Gnjatic S. Humoral IgG1 responses to tumor antigens underpin clinical outcomes in immune checkpoint blockade. **Nat Med** 2026'
     date: 202602
     image: '/static/img/pub/s41591-025-04177-6.png'
-    #pmid: 41175873
+    pmid: 41593194
     #pmcid: PMC12211841
     pdf: '/static/pdf/s41591-025-04177-6.pdf'
     links:
