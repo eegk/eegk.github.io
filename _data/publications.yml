@@ -430,6 +430,15 @@
       - name: "Scientific Reports 2018"
         url: 'doi: 10.1038/s41598-018-33298-x'
 
+  - citation: 'Viart B, Dias-Lopes C, **Gonzalez-Kozlova E**, ..., Felicori LF. EPI-peptide designer: a tool for designing peptide ligand libraries based on epitope-paratope interactions. **Bioinformatics**. 2016'
+    date: 201501
+    image: '/static/img/research/bioinformatics_32_10_1462.png'
+    pmid: 26787662
+    pdf: '/static/pdf/bioinformatics_32_10_1462.pdf'
+    links:
+      - name: "BMC Bioinformatics 2015"
+        url: 'https://pubmed.ncbi.nlm.nih.gov/26787662'
+
   - citation: '**Gonzalez-Kozlova E**, Viart B, de Avila R, Felicori L, Chavez-Olortegui C. Classification epitopes in groups based on their protein family. **BMC Bioinformatics**. 2015.'
     date: 201501
     image: '/static/img/pub/bmc_eegk.png'
