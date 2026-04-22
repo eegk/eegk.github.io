@@ -1,4 +1,14 @@
-  - citation: 'Restrepo P, ..., Ji AL. Single-cell spatial transcriptomic analysis of human skin anatomy. **Nat Genet**. 2026 '
+  - citation: 'Ziao Li, ..., **Gonzalez-Kozlova E**, Gnjatic S, Galsky MD. Gemcitabine plus nivolumab with carboplatin or oxaliplatin in cisplatin-ineligible patients with metastatic urothelial carcinoma: a randomized phase II trial. **Clin Cancer Res**. 2026'
+    date: 202604
+    image: '/static/img/research/ccr-26-0469.png'
+    pmid: 42001507
+    #pmcid: PMC12211841
+    pdf: '/static/pdf/ccr-26-0469.pdf'
+    links:
+      - name: "Clin Cancer Res"
+        url: 'https://doi.org/10.1158/1078-0432.CCR-26-0469'
+        
+  - citation: 'Restrepo P, ..., Ji AL. Single-cell spatial transcriptomic analysis of human skin anatomy. **Nat Genet**. 2026'
     date: 202604
     image: '/static/img/research/s41588-026-02552-8.png'
     pmid: 41872488
@@ -8,7 +18,7 @@
       - name: "Nat Genet"
         url: 'https://www.nature.com/articles/s41588-026-02552-8'
 
-  - citation: 'Tran MA, ..., Bhardwaj N. A tumor-promoting inflammatory SPP1+ macrophage-IL-6-CRP axis drives immune dysfunction in bladder cancer. **Cancer Discov**. 2026 '
+  - citation: 'Tran MA, ..., Bhardwaj N. A tumor-promoting inflammatory SPP1+ macrophage-IL-6-CRP axis drives immune dysfunction in bladder cancer. **Cancer Discov**. 2026'
     date: 202604
     image: '/static/img/research/Tran Cancer Discovery 2026 (temp).png'
     pmid: 41747249
