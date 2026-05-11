@@ -1,3 +1,13 @@
+  - citation: 'Nose, Y, ..., Dogra N, Gnjatic S, **Gonzalez-Kozlova E**. “The Proteo-Transcriptome of Extracellular Vesicles and Particles Is Largely Preserved After Cryopreservation. **Journal of Extracellular Biology** 2026'
+    date: 202605
+    image: '/static/img/research/JEXBIO_YOHEI_2026.png'
+    #pmid: 42001507
+    #pmcid: PMC12211841
+    pdf: '/static/pdf/JEXBIO_YOHEI_2026.pdf'
+    links:
+      - name: "Journal of Extracellular Biology"
+        url: ' https://doi.org/10.1002/jex2.70128'
+        
   - citation: 'Ziao Li, ..., **Gonzalez-Kozlova E**, Gnjatic S, Galsky MD. Gemcitabine plus nivolumab with carboplatin or oxaliplatin in cisplatin-ineligible patients with metastatic urothelial carcinoma: a randomized phase II trial. **Clin Cancer Res**. 2026'
     date: 202604
     image: '/static/img/research/ccr-26-0469.png'
