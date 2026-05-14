@@ -1,8 +1,8 @@
   - citation: 'Nose, Y, ..., Dogra N, Gnjatic S, **Gonzalez-Kozlova E**. “The Proteo-Transcriptome of Extracellular Vesicles and Particles Is Largely Preserved After Cryopreservation. **Journal of Extracellular Biology** 2026'
     date: 202605
     image: '/static/img/research/JEXBIO_YOHEI_2026.png'
-    #pmid: 42001507
-    #pmcid: PMC12211841
+    pmid: 42094828
+    pmcid: PMC13140971
     pdf: '/static/pdf/JEXBIO_YOHEI_2026.pdf'
     links:
       - name: "Journal of Extracellular Biology"
