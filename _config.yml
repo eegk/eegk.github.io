@@ -6,7 +6,6 @@ url: "https://eegk.github.io/"
 # GitHub Pages & Jekyll configuration
 remote_theme: primer/github-pages-theme
 plugins:
-  - jekyll-github-metadata
   - jekyll-paginate
 
 # Pagination
@@ -17,6 +16,3 @@ paginate_path: "news/page:num"
 permalink: pretty
 highlighter: rouge
 markdown: kramdown
-
-# Explicit plugin configuration
-github: [metadata]
