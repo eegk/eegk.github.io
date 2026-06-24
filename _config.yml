@@ -4,9 +4,10 @@ description: "This is the official web page for the Edgar Gonzalez-Kozlova"
 url: "https://eegk.github.io/"
 
 # GitHub Pages & Jekyll configuration
-theme: jekyll-theme-primer
+remote_theme: primer/github-pages-theme
 plugins:
   - jekyll-github-metadata
+  - jekyll-paginate
 
 # Pagination
 paginate: 5
