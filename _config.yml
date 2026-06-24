@@ -16,6 +16,3 @@ paginate_path: "news/page:num"
 permalink: pretty
 highlighter: rouge
 markdown: kramdown
-
-# Ensure compatibility
-github-pages: 232
