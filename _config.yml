@@ -3,9 +3,16 @@ description: "This is the official web page for the Edgar Gonzalez-Kozlova"
 
 url: "https://eegk.github.io/"
 
+# GitHub Pages & Jekyll configuration
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-github-metadata
+
+# Pagination
 paginate: 5
 paginate_path: "news/page:num"
 
+# Markup
 permalink: pretty
 highlighter: rouge
 markdown: kramdown
