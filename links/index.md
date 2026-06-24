@@ -4,25 +4,25 @@ layout: default
 group: links
 ---
 
-#Links
+# Links
 ---
 
-##Associations
+## Associations
 
 * [Icahn School of Medicine](https://icahn.mssm.edu/)
 
 ---
 
-##Press
+## Press
 
 ---
 
-##Teaching
+## Teaching
 
 ---
 
-##Science as it should be done
+## Science as it should be done
 
 ---
 
-##Friends and Collaborators
+## Friends and Collaborators
