@@ -1,0 +1,18 @@
+name: "Gonzalez-Kozlova"
+description: "This is the official web page for the Edgar Gonzalez-Kozlova"
+
+url: "https://eegk.github.io/"
+
+# GitHub Pages & Jekyll configuration
+remote_theme: pages-themes/primer@v0.2.0
+plugins:
+  - jekyll-paginate
+
+# Pagination
+paginate: 5
+paginate_path: "news/page:num"
+
+# Markup
+permalink: pretty
+highlighter: rouge
+markdown: kramdown
