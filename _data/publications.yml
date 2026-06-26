@@ -1,4 +1,4 @@
-  - citation: '**Gonzalez-Kozlova E**, Tichkule S, Nose Y, Chen TY, ...,Dogra N. SECmeres outperform extracellular vesicles as potential blood RNA biomarkers for Alzheimer's disease. **Nat Commun**. 2026'
+  - citation: '**Gonzalez-Kozlova E**, Tichkule S, Nose Y, Chen TY, ...,Dogra N. SECmeres outperform extracellular vesicles as potential blood RNA biomarkers for Alzheimer''s disease. **Nat Commun**. 2026'
     date: 202606
     image: '/static/img/research/SECmeres.png'
     pmid: 42331820
@@ -81,7 +81,7 @@
   - citation: 'Pilcher WC, Yao L, **Gonzalez-Kozlova E**, Pita-Juarez Y, Karagkouni D, Immune Atlas Consortium. A single-cell atlas characterizes dysregulation of the bone marrow immune microenvironment associated with outcomes in multiple myeloma. **Nat. Cancer.** 2026'
     date: 202601
     image: '/static/img/pub/s43018-025-01072-4.png'
-    #pmid: 41175873
+    pmid: 41514053
     #pmcid: PMC12211841
     pdf: '/static/pdf/s43018-025-01072-4.pdf'
     links:
