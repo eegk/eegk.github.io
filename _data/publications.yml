@@ -1,3 +1,13 @@
+- citation: 'Raphaël Mattiuz et al. Dendritic cells control tertiary lymphoid structure development and maintenance in cancer. **Science**. 2026'
+    date: 202609
+    image: '/static/img/research/raphaDCs.png'
+    pmid: 42462020
+    #pmcid: PMC13287576
+    pdf: '/static/pdf/raphaDCs.pdf'
+    links:
+      - name: "Science"
+        url: 'https://www.science.org/doi/epdf/10.1126/science.ady1678'
+  
   - citation: '**Gonzalez-Kozlova E**, Tichkule S, Nose Y, Chen TY, ...,Dogra N. SECmeres outperform extracellular vesicles as potential blood RNA biomarkers for Alzheimer''s disease. **Nat Commun**. 2026'
     date: 202606
     image: '/static/img/research/SECmeres.png'
