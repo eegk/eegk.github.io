@@ -19,14 +19,14 @@ Icahn School of Medicine at Mount Sinai
 ## Current Members
 
 #### Igor Figueiredo, MSc
-Computational Scientist (2023-Current)
+Computational Scientist (2023-Current).
 Research focus: Software/Statistical methods development and spatial data analysis.
 
 #### Joshua Finkelstein 
-Undergraduate Student (2026-Current)  
+Undergraduate Student (2026-Current).
 
 #### Olivia Markesic
-Research focus: Cellular Senescence
+Research focus: Cellular Senescence.
 High School Intern (2026-Current)  
 
 ## Mascot
