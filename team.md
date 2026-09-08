@@ -22,26 +22,42 @@ Icahn School of Medicine at Mount Sinai
 Computational Scientist (2023-Current)
 Research focus: Software/Statistical methods development and spatial data analysis.
 
-#### Ruiwei Guo
-Staf Scientist (2023-Current)
-Research focus: Single cell analyses.
+#### Joshua Finkelstein 
+Undergraduate Student (2026-Current)  
+
+#### Olivia Markesic
+Research focus: Cellular Senescence
+High School Intern (2026-Current)  
 
 ## Mascot
+
 #### Bo (11 year old orange troublemaker)
 Research focus: Ensuring home made meals are of premium quality.
 
 #### Mimi (5 year old black menace)
-Resarch focus: Hissing at strangers and visitors alike.
+Research focus: Hissing at strangers and visitors alike.
 
 ---
 
 ## Alumni
 
-#### Yohei Nose
-Postdoctoral fellow (2024-2025)
+#### Ruiwei Guo
+Staff Scientist (2023-2026)
+Research focus: Single cell analyses.
+Principal Mentor: Sacha Gnjatic
+
+#### Jessica Ahadjitse
+High School Intern (Summer 2026)
+
+#### Benedict Vargas
+High School Intern (Summer 2026)
 
 #### Alyssa Anyanwu
-High School Intern (2025)    
+High School Intern (Summer 2025 & Summer 2026)    
+
+#### Yohei Nose
+Postdoctoral fellow (2024-2025)
+Principal Mentor: Sacha Gnjatic
 
 #### Avni Chandra
 High School Intern (2025)  
@@ -55,7 +71,8 @@ Principal Mentor: Navneet Dogra
 
 #### Anelize Baranzeli 
 Undergraduate Student (2016-2018)  
+Principal Mentor: Daniel Santos Mansur
 
 #### Marick Starick
 PhD Student (2016-2018)  
-
+Principal Mentor: Andre Bafica
