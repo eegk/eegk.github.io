@@ -42,9 +42,9 @@ Research focus: Hissing at strangers and visitors alike.
 ## Alumni
 
 #### Ruiwei Guo
-Staff Scientist (2023-2026)
+Staff Scientist (2023-2026).
 Research focus: Single cell analyses.
-Principal Mentor: Sacha Gnjatic
+Principal Mentor: Sacha Gnjatic.
 
 #### Jessica Ahadjitse
 High School Intern (Summer 2026)
@@ -56,7 +56,7 @@ High School Intern (Summer 2026)
 High School Intern (Summer 2025 & Summer 2026)    
 
 #### Yohei Nose
-Postdoctoral fellow (2024-2025)
+Postdoctoral fellow (2024-2025).
 Principal Mentor: Sacha Gnjatic
 
 #### Avni Chandra
@@ -66,13 +66,13 @@ High School Intern (2025)
 High School Intern (2025)    
 
 #### Tina Chen
-Co-Mentored, PhD student (2019-2024)
+Co-Mentored, PhD student (2019-2024).
 Principal Mentor: Navneet Dogra
 
 #### Anelize Baranzeli 
-Undergraduate Student (2016-2018)  
+Undergraduate Student (2016-2018).
 Principal Mentor: Daniel Santos Mansur
 
 #### Marick Starick
-PhD Student (2016-2018)  
+PhD Student (2016-2018).
 Principal Mentor: Andre Bafica
