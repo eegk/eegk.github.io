@@ -17,7 +17,7 @@ I lead correlative analyses for numerous clinical trials part of the CIMAC-CIDC-
 We study how the immune system sustains tissue homeostasis and what breaks when it does not. By integrating single-cell RNA-seq, CyTOF, multiplex immunohistochemistry, and spatial transcriptomics or proteomics, we reconstruct the cellular neighborhoods that organize healthy tissue and track how that organization degrades in disease. This work spans a single-cell spatial census of human skin anatomy (Restrepo et al., Nat Genet, 2026), the bone marrow immune microenvironment in multiple myeloma (Pilcher et al., Nat Cancer, 2026), intratumoral dendritic cell–T cell niches in liver cancer (Magen et al., Nat Med, 2023), and the dendritic cells that control tertiary lymphoid structures in tumors (Mattiuz et al., Science, 2026). We also develop the computational pipelines that make these measurements comparable across centers, assays, and clinical trials (Buckup et al., Nat Biomed Eng, 2025), turning descriptive atlases into quantitative measures of dysregulation.
 
 <br><br>
-<img class="img-responsive center-block" src="/static/img/research/SingleCell_Spatial.png" alt="Single-cell and spatial analysis" style="max-width: 700px; width: 100%;">
+<img class="img-responsive center-block" src="/static/img/research/SingleCell_Spatial.png" alt="Single-cell and spatial analysis" style="max-width: 450px; width: 100%;">
 <br><br>
 
 ## Allergy
@@ -45,7 +45,7 @@ Beyond any single disease, we ask what a coordinated immune response looks like 
 In collaboration with Dr. Dogra, we use cutting-edge technology to purify extracellular vesicles and particles using minimal sample RNA recovery to characterize the total RNA profiles from liquid biopsy samples. We QC and process the sequencing data to characterize expression profiles from either known or unknown regions in the genome to identify signatures associated with different types of human malignancies. We use diverse types of assays to tackle organ-specific hypotheses, such as RNA-seq, scRNA-seq, and mass spectrometry.
 
 <br><br>
-<img class="img-responsive center-block" src="/static/img/research/Exosomes_analysis.png" alt="Exosome Transcriptomics" style="max-width: 700px; width: 100%;">
+<img class="img-responsive center-block" src="/static/img/research/Exosomes_analysis.png" alt="Exosome Transcriptomics" style="max-width: 450px; width: 100%;">
 <br><br>
 
 ## Cancer Research
@@ -53,5 +53,5 @@ In collaboration with Dr. Dogra, we use cutting-edge technology to purify extrac
 In collaboration with Dr. Gnjatic, we focus on understanding the intricate mechanisms behind immune response in cancer clinical trials and infectious diseases such as COVID-19. We dissect diverse assays including RNA-seq, single-cell RNA-seq, methylation, proteomics (Olink, Somalogics), serology, seromics, multiplex immunohistochemistry, and spatial transcriptomics or proteomics.
 
 <br><br>
-<img class="img-responsive center-block" src="/static/img/research/Bioinformatic_analysis.png" alt="Basic Bioinformatics pipeline" style="max-width: 700px; width: 100%;">
+<img class="img-responsive center-block" src="/static/img/research/Bioinformatic_analysis.png" alt="Basic Bioinformatics pipeline" style="max-width: 450px; width: 100%;">
 <br><br>
