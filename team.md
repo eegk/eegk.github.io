@@ -66,7 +66,7 @@ High School Intern (2025)
 High School Intern (2025)    
 
 #### Tina Chen
-Co-Mentored, PhD student (2019-2024) 
+Co-Mentored, PhD student (2019-2024)
 Principal Mentor: Navneet Dogra
 
 #### Anelize Baranzeli 
