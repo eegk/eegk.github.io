@@ -17,7 +17,7 @@ I lead correlative analyses for numerous clinical trials part of the CIMAC-CIDC-
 We study how the immune system sustains tissue homeostasis and what breaks when it does not. By integrating single-cell RNA-seq, CyTOF, multiplex immunohistochemistry, and spatial transcriptomics or proteomics, we reconstruct the cellular neighborhoods that organize healthy tissue and track how that organization degrades in disease. This work spans a single-cell spatial census of human skin anatomy (Restrepo et al., Nat Genet, 2026), the bone marrow immune microenvironment in multiple myeloma (Pilcher et al., Nat Cancer, 2026), intratumoral dendritic cell–T cell niches in liver cancer (Magen et al., Nat Med, 2023), and the dendritic cells that control tertiary lymphoid structures in tumors (Mattiuz et al., Science, 2026). We also develop the computational pipelines that make these measurements comparable across centers, assays, and clinical trials (Buckup et al., Nat Biomed Eng, 2025), turning descriptive atlases into quantitative measures of dysregulation.
 
 <br><br>
-<img class="img-responsive center-block" src="/static/img/research/SingleCell_Spatial.jpeg" alt="Single-cell and spatial analysis">
+<img class="img-responsive center-block" src="/static/img/research/SingleCell_Spatial.jpg" alt="Single-cell and spatial analysis">
 -->
 <br><br>
 
